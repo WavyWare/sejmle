@@ -1,41 +1,21 @@
 import { writeFileSync } from 'fs';
 import path from 'path';
-import {slice} from "eslint-config-next";
-import {useActionQueue} from "next/dist/client/components/use-action-queue";
+import {MP, MPEntry} from "@/scripts/MP";
 
-type MP = {
-    id: number;
-    firstName: string;
-    lastName: string;
-    firstLastName: string;
-    lastFirstName: string;
-    accusativeName: string;
-    genitiveName: string;
-    active: boolean;
-    birthDate: string;
-    birthLocation: string;
-    club: string;
-    districtName: string;
-    districtNum: number;
-    educationLevel: string;
-    email: string;
-    numberOfVotes: number;
-    profession: string;
-    voivodeship: string;
-};
+
 
 async function run() {
-    const res: MP[] = await fetch("https://api.sejm.gov.pl/sejm/term10/MP").then((res) => res.json());
+    const res: MPEntry[] = await fetch("https://api.sejm.gov.pl/sejm/term10/MP").then((res) => res.json());
 
     const publicDir = path.join(process.cwd(), 'public');
     const allPath = path.join(publicDir, 'mps-all.json');
     const recognizablePath = path.join(publicDir, 'mps-recognizable.json');
 
-    const usable = res.map((item: MP) => {
+    const usable: MP[] = res.map((item: MPEntry) => {
         return {
             id: item.id,
             fullName: item.firstName + " " + item.lastName,
-            birthYear: item.birthDate.split("-")[0],
+            birthYear: parseInt(item.birthDate.split("-")[0]),
             club: item.club,
             active: item.active,
             districtName: item.districtName,
@@ -45,7 +25,9 @@ async function run() {
         }
     }).sort((a, b) => b.numberOfVotes - a.numberOfVotes)
 
-    writeFileSync(allPath, JSON.stringify(usable, null, 2));
+    const sortedALl = [...new Set(usable)];
+
+    writeFileSync(allPath, JSON.stringify(sortedALl, null, 2));
 
     const highestKOvotes = usable.filter(mp => mp.club === "KO").slice(0, 35);
     const highestPiSvotes = usable.filter(mp => mp.club === "PiS").slice(0, 35);
@@ -66,8 +48,10 @@ async function run() {
 
     const recognizable = [...highestKOvotes, ...highestPiSvotes, ...highestLewicaVotes, ...highestKonfederacjaVotes, ...highestTDVotes, ...rest].sort((a, b) => b.numberOfVotes - a.numberOfVotes);
 
+    const uniqueRecognizable = [...new Set(recognizable)];
 
-    writeFileSync(recognizablePath, JSON.stringify(recognizable, null, 2));
+
+    writeFileSync(recognizablePath, JSON.stringify(uniqueRecognizable, null, 2));
     console.log("Successfully saved data");
 }
 
