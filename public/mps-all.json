@@ -2,7 +2,7 @@
   {
     "id": 400,
     "fullName": "Donald Tusk",
-    "birthYear": 1957,
+    "age": 69,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -13,7 +13,7 @@
   {
     "id": 148,
     "fullName": "Jarosław Kaczyński",
-    "birthYear": 1949,
+    "age": 77,
     "club": "PiS",
     "active": true,
     "districtName": "Kielce",
@@ -24,7 +24,7 @@
   {
     "id": 371,
     "fullName": "Adam Szłapka",
-    "birthYear": 1984,
+    "age": 42,
     "club": "KO",
     "active": true,
     "districtName": "Poznań",
@@ -35,7 +35,7 @@
   {
     "id": 263,
     "fullName": "Barbara Nowacka",
-    "birthYear": 1975,
+    "age": 51,
     "club": "KO",
     "active": true,
     "districtName": "Słupsk",
@@ -46,7 +46,7 @@
   {
     "id": 100,
     "fullName": "Piotr Gliński",
-    "birthYear": 1954,
+    "age": 72,
     "club": "PiS",
     "active": true,
     "districtName": "Warszawa",
@@ -57,7 +57,7 @@
   {
     "id": 20,
     "fullName": "Mariusz Błaszczak",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PiS",
     "active": true,
     "districtName": "Warszawa",
@@ -68,7 +68,7 @@
   {
     "id": 411,
     "fullName": "Małgorzata Wassermann",
-    "birthYear": 1978,
+    "age": 48,
     "club": "PiS",
     "active": true,
     "districtName": "Kraków",
@@ -79,7 +79,7 @@
   {
     "id": 56,
     "fullName": "Przemysław Czarnek",
-    "birthYear": 1977,
+    "age": 49,
     "club": "PiS",
     "active": true,
     "districtName": "Lublin",
@@ -90,7 +90,7 @@
   {
     "id": 246,
     "fullName": "Mateusz Morawiecki",
-    "birthYear": 1968,
+    "age": 58,
     "club": "PiS",
     "active": true,
     "districtName": "Katowice",
@@ -101,7 +101,7 @@
   {
     "id": 227,
     "fullName": "Marlena Maląg",
-    "birthYear": 1964,
+    "age": 62,
     "club": "PiS",
     "active": false,
     "districtName": "Kalisz",
@@ -112,7 +112,7 @@
   {
     "id": 241,
     "fullName": "Sławomir Mentzen",
-    "birthYear": 1986,
+    "age": 40,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Warszawa",
@@ -123,7 +123,7 @@
   {
     "id": 38,
     "fullName": "Borys Budka",
-    "birthYear": 1978,
+    "age": 48,
     "club": "KO",
     "active": false,
     "districtName": "Katowice",
@@ -134,7 +134,7 @@
   {
     "id": 297,
     "fullName": "Kacper Płażyński",
-    "birthYear": 1989,
+    "age": 37,
     "club": "PiS",
     "active": true,
     "districtName": "Gdańsk",
@@ -145,7 +145,7 @@
   {
     "id": 355,
     "fullName": "Mirosława Stachowiak-Różecka",
-    "birthYear": 1973,
+    "age": 53,
     "club": "PiS",
     "active": true,
     "districtName": "Wrocław",
@@ -156,7 +156,7 @@
   {
     "id": 338,
     "fullName": "Bartłomiej Sienkiewicz",
-    "birthYear": 1961,
+    "age": 65,
     "club": "KO",
     "active": false,
     "districtName": "Kraków",
@@ -167,7 +167,7 @@
   {
     "id": 262,
     "fullName": "Sławomir Nitras",
-    "birthYear": 1973,
+    "age": 53,
     "club": "KO",
     "active": true,
     "districtName": "Szczecin",
@@ -178,7 +178,7 @@
   {
     "id": 35,
     "fullName": "Krzysztof Brejza",
-    "birthYear": 1983,
+    "age": 43,
     "club": "KO",
     "active": false,
     "districtName": "Bydgoszcz",
@@ -189,7 +189,7 @@
   {
     "id": 428,
     "fullName": "Elżbieta Witek",
-    "birthYear": 1957,
+    "age": 69,
     "club": "PiS",
     "active": true,
     "districtName": "Legnica",
@@ -200,7 +200,7 @@
   {
     "id": 144,
     "fullName": "Dariusz Joński",
-    "birthYear": 1979,
+    "age": 47,
     "club": "KO",
     "active": false,
     "districtName": "Łódź",
@@ -211,7 +211,7 @@
   {
     "id": 87,
     "fullName": "Kinga Gajewska",
-    "birthYear": 1990,
+    "age": 36,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -222,7 +222,7 @@
   {
     "id": 447,
     "fullName": "Bogdan Zdrojewski",
-    "birthYear": 1957,
+    "age": 69,
     "club": "KO",
     "active": false,
     "districtName": "Wrocław",
@@ -233,7 +233,7 @@
   {
     "id": 302,
     "fullName": "Agnieszka Pomaska",
-    "birthYear": 1980,
+    "age": 46,
     "club": "KO",
     "active": true,
     "districtName": "Gdańsk",
@@ -244,7 +244,7 @@
   {
     "id": 133,
     "fullName": "Szymon Hołownia",
-    "birthYear": 1976,
+    "age": 50,
     "club": "Polska2050",
     "active": true,
     "districtName": "Białystok",
@@ -255,7 +255,7 @@
   {
     "id": 47,
     "fullName": "Alicja Chybicka",
-    "birthYear": 1951,
+    "age": 75,
     "club": "KO",
     "active": true,
     "districtName": "Wrocław",
@@ -266,7 +266,7 @@
   {
     "id": 300,
     "fullName": "Elżbieta Polak",
-    "birthYear": 1959,
+    "age": 67,
     "club": "KO",
     "active": true,
     "districtName": "Zielona Góra",
@@ -277,7 +277,7 @@
   {
     "id": 456,
     "fullName": "Zbigniew Ziobro",
-    "birthYear": 1970,
+    "age": 56,
     "club": "PiS",
     "active": true,
     "districtName": "Rzeszów",
@@ -288,7 +288,7 @@
   {
     "id": 255,
     "fullName": "Piotr Müller",
-    "birthYear": 1989,
+    "age": 37,
     "club": "PiS",
     "active": false,
     "districtName": "Słupsk",
@@ -299,7 +299,7 @@
   {
     "id": 115,
     "fullName": "Jan Grabiec",
-    "birthYear": 1972,
+    "age": 54,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -310,7 +310,7 @@
   {
     "id": 290,
     "fullName": "Anna Pieczarka",
-    "birthYear": 1977,
+    "age": 49,
     "club": "PiS",
     "active": true,
     "districtName": "Tarnów",
@@ -321,7 +321,7 @@
   {
     "id": 167,
     "fullName": "Maria Koc",
-    "birthYear": 1964,
+    "age": 62,
     "club": "PiS",
     "active": true,
     "districtName": "Siedlce",
@@ -332,7 +332,7 @@
   {
     "id": 392,
     "fullName": "Cezary Tomczyk",
-    "birthYear": 1984,
+    "age": 42,
     "club": "KO",
     "active": true,
     "districtName": "Sieradz",
@@ -343,7 +343,7 @@
   {
     "id": 414,
     "fullName": "Marta Wcisło",
-    "birthYear": 1969,
+    "age": 57,
     "club": "KO",
     "active": false,
     "districtName": "Lublin",
@@ -354,7 +354,7 @@
   {
     "id": 8,
     "fullName": "Bartosz Arłukowicz",
-    "birthYear": 1971,
+    "age": 55,
     "club": "KO",
     "active": false,
     "districtName": "Koszalin",
@@ -365,7 +365,7 @@
   {
     "id": 317,
     "fullName": "Jakub Rutnicki",
-    "birthYear": 1978,
+    "age": 48,
     "club": "KO",
     "active": true,
     "districtName": "Piła",
@@ -376,7 +376,7 @@
   {
     "id": 270,
     "fullName": "Marzena Okła-Drewnowicz",
-    "birthYear": 1972,
+    "age": 54,
     "club": "KO",
     "active": true,
     "districtName": "Kielce",
@@ -387,7 +387,7 @@
   {
     "id": 256,
     "fullName": "Arkadiusz Myrcha",
-    "birthYear": 1984,
+    "age": 42,
     "club": "KO",
     "active": true,
     "districtName": "Toruń",
@@ -398,7 +398,7 @@
   {
     "id": 442,
     "fullName": "Adrian Zandberg",
-    "birthYear": 1979,
+    "age": 47,
     "club": "Razem",
     "active": true,
     "districtName": "Warszawa",
@@ -409,7 +409,7 @@
   {
     "id": 178,
     "fullName": "Paweł Kowal",
-    "birthYear": 1975,
+    "age": 51,
     "club": "KO",
     "active": true,
     "districtName": "Rzeszów",
@@ -420,7 +420,7 @@
   {
     "id": 253,
     "fullName": "Arkadiusz Mularczyk",
-    "birthYear": 1971,
+    "age": 55,
     "club": "PiS",
     "active": false,
     "districtName": "Nowy Sącz",
@@ -431,7 +431,7 @@
   {
     "id": 166,
     "fullName": "Michał Kobosko",
-    "birthYear": 1968,
+    "age": 58,
     "club": "Polska2050-TD",
     "active": false,
     "districtName": "Warszawa",
@@ -441,7 +441,7 @@
   {
     "id": 212,
     "fullName": "Izabela Leszczyna",
-    "birthYear": 1962,
+    "age": 64,
     "club": "KO",
     "active": true,
     "districtName": "Częstochowa",
@@ -452,7 +452,7 @@
   {
     "id": 325,
     "fullName": "Jacek Sasin",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PiS",
     "active": true,
     "districtName": "Białystok",
@@ -463,7 +463,7 @@
   {
     "id": 396,
     "fullName": "Krzysztof Truskolaski",
-    "birthYear": 1990,
+    "age": 36,
     "club": "KO",
     "active": true,
     "districtName": "Białystok",
@@ -474,7 +474,7 @@
   {
     "id": 89,
     "fullName": "Kamila Gasiuk-Pihowicz",
-    "birthYear": 1983,
+    "age": 43,
     "club": "KO",
     "active": false,
     "districtName": "Siedlce",
@@ -485,7 +485,7 @@
   {
     "id": 375,
     "fullName": "Stanisław Szwed",
-    "birthYear": 1955,
+    "age": 71,
     "club": "PiS",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -496,7 +496,7 @@
   {
     "id": 156,
     "fullName": "Jacek Karnowski",
-    "birthYear": 1963,
+    "age": 63,
     "club": "KO",
     "active": true,
     "districtName": "Gdańsk",
@@ -507,7 +507,7 @@
   {
     "id": 3,
     "fullName": "Adam Andruszkiewicz",
-    "birthYear": 1990,
+    "age": 36,
     "club": "PiS",
     "active": false,
     "districtName": "Białystok",
@@ -518,7 +518,7 @@
   {
     "id": 421,
     "fullName": "Monika Wielichowska",
-    "birthYear": 1973,
+    "age": 53,
     "club": "KO",
     "active": true,
     "districtName": "Wałbrzych",
@@ -529,7 +529,7 @@
   {
     "id": 160,
     "fullName": "Marcin Kierwiński",
-    "birthYear": 1976,
+    "age": 50,
     "club": "KO",
     "active": false,
     "districtName": "Płock",
@@ -540,7 +540,7 @@
   {
     "id": 374,
     "fullName": "Krystyna Szumilas",
-    "birthYear": 1956,
+    "age": 70,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -551,7 +551,7 @@
   {
     "id": 403,
     "fullName": "Jarosław Urbaniak",
-    "birthYear": 1966,
+    "age": 60,
     "club": "KO",
     "active": true,
     "districtName": "Kalisz",
@@ -562,7 +562,7 @@
   {
     "id": 199,
     "fullName": "Marek Kuchciński",
-    "birthYear": 1955,
+    "age": 71,
     "club": "PiS",
     "active": true,
     "districtName": "Krosno",
@@ -573,7 +573,7 @@
   {
     "id": 174,
     "fullName": "Władysław Kosiniak-Kamysz",
-    "birthYear": 1981,
+    "age": 45,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Tarnów",
@@ -584,7 +584,7 @@
   {
     "id": 40,
     "fullName": "Lidia Burzyńska",
-    "birthYear": 1964,
+    "age": 62,
     "club": "PiS",
     "active": true,
     "districtName": "Częstochowa",
@@ -595,7 +595,7 @@
   {
     "id": 268,
     "fullName": "Mirosława Nykiel",
-    "birthYear": 1953,
+    "age": 73,
     "club": "KO",
     "active": false,
     "districtName": "Bielsko-Biała",
@@ -606,7 +606,7 @@
   {
     "id": 86,
     "fullName": "Aleksandra Gajewska",
-    "birthYear": 1989,
+    "age": 37,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -617,7 +617,7 @@
   {
     "id": 387,
     "fullName": "Robert Telus",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PiS",
     "active": true,
     "districtName": "Piotrków Trybunalski",
@@ -628,7 +628,7 @@
   {
     "id": 134,
     "fullName": "Marcin Horała",
-    "birthYear": 1981,
+    "age": 45,
     "club": "PiS",
     "active": true,
     "districtName": "Słupsk",
@@ -639,7 +639,7 @@
   {
     "id": 131,
     "fullName": "Zbigniew Hoffmann",
-    "birthYear": 1963,
+    "age": 63,
     "club": "PiS",
     "active": true,
     "districtName": "Konin",
@@ -650,7 +650,7 @@
   {
     "id": 337,
     "fullName": "Tomasz Siemoniak",
-    "birthYear": 1967,
+    "age": 59,
     "club": "KO",
     "active": true,
     "districtName": "Opole",
@@ -661,7 +661,7 @@
   {
     "id": 37,
     "fullName": "Waldemar Buda",
-    "birthYear": 1982,
+    "age": 44,
     "club": "PiS",
     "active": false,
     "districtName": "Łódź",
@@ -672,7 +672,7 @@
   {
     "id": 1,
     "fullName": "Andrzej Adamczyk",
-    "birthYear": 1959,
+    "age": 67,
     "club": "PiS",
     "active": true,
     "districtName": "Kraków",
@@ -683,7 +683,7 @@
   {
     "id": 378,
     "fullName": "Szymon Szynkowski vel Sęk",
-    "birthYear": 1982,
+    "age": 44,
     "club": "PiS",
     "active": true,
     "districtName": "Poznań",
@@ -694,7 +694,7 @@
   {
     "id": 29,
     "fullName": "Piotr Borys",
-    "birthYear": 1976,
+    "age": 50,
     "club": "KO",
     "active": true,
     "districtName": "Legnica",
@@ -705,7 +705,7 @@
   {
     "id": 33,
     "fullName": "Krzysztof Bosak",
-    "birthYear": 1982,
+    "age": 44,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Białystok",
@@ -716,7 +716,7 @@
   {
     "id": 313,
     "fullName": "Monika Rosa",
-    "birthYear": 1986,
+    "age": 40,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -727,7 +727,7 @@
   {
     "id": 171,
     "fullName": "Rafał Komarewicz",
-    "birthYear": 1971,
+    "age": 55,
     "club": "Centrum",
     "active": true,
     "districtName": "Kraków",
@@ -738,7 +738,7 @@
   {
     "id": 119,
     "fullName": "Marek Gróbarczyk",
-    "birthYear": 1968,
+    "age": 58,
     "club": "PiS",
     "active": true,
     "districtName": "Szczecin",
@@ -749,7 +749,7 @@
   {
     "id": 330,
     "fullName": "Łukasz Schreiber",
-    "birthYear": 1987,
+    "age": 39,
     "club": "PiS",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -760,7 +760,7 @@
   {
     "id": 152,
     "fullName": "Mariusz Kamiński",
-    "birthYear": 1965,
+    "age": 61,
     "club": "PiS",
     "active": false,
     "districtName": "Chełm",
@@ -771,7 +771,7 @@
   {
     "id": 273,
     "fullName": "Dorota Olko",
-    "birthYear": 1988,
+    "age": 38,
     "club": "Lewica",
     "active": true,
     "districtName": "Warszawa",
@@ -782,7 +782,7 @@
   {
     "id": 243,
     "fullName": "Daniel Milewski",
-    "birthYear": 1989,
+    "age": 37,
     "club": "PiS",
     "active": true,
     "districtName": "Siedlce",
@@ -793,7 +793,7 @@
   {
     "id": 170,
     "fullName": "Michał Kołodziejczak",
-    "birthYear": 1988,
+    "age": 38,
     "club": "KO",
     "active": true,
     "districtName": "Konin",
@@ -804,7 +804,7 @@
   {
     "id": 200,
     "fullName": "Paweł Kukiz",
-    "birthYear": 1963,
+    "age": 63,
     "club": "Demokracja",
     "active": true,
     "districtName": "Opole",
@@ -815,7 +815,7 @@
   {
     "id": 22,
     "fullName": "Rafał Bochenek",
-    "birthYear": 1986,
+    "age": 40,
     "club": "PiS",
     "active": true,
     "districtName": "Kraków",
@@ -826,7 +826,7 @@
   {
     "id": 77,
     "fullName": "Magdalena Filiks",
-    "birthYear": 1978,
+    "age": 48,
     "club": "KO",
     "active": true,
     "districtName": "Szczecin",
@@ -837,7 +837,7 @@
   {
     "id": 215,
     "fullName": "Łukasz Litewka",
-    "birthYear": 1989,
+    "age": 37,
     "club": "Lewica",
     "active": false,
     "districtName": "Katowice",
@@ -848,7 +848,7 @@
   {
     "id": 269,
     "fullName": "Marcin Ociepa",
-    "birthYear": 1984,
+    "age": 42,
     "club": "PiS",
     "active": true,
     "districtName": "Opole",
@@ -859,7 +859,7 @@
   {
     "id": 73,
     "fullName": "Michał Dworczyk",
-    "birthYear": 1975,
+    "age": 51,
     "club": "PiS",
     "active": false,
     "districtName": "Wałbrzych",
@@ -870,7 +870,7 @@
   {
     "id": 435,
     "fullName": "Michał Woś",
-    "birthYear": 1991,
+    "age": 35,
     "club": "PiS",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -881,7 +881,7 @@
   {
     "id": 191,
     "fullName": "Anna Krupka",
-    "birthYear": 1981,
+    "age": 45,
     "club": "PiS",
     "active": true,
     "districtName": "Kielce",
@@ -892,7 +892,7 @@
   {
     "id": 228,
     "fullName": "Ewa Malik",
-    "birthYear": 1961,
+    "age": 65,
     "club": "PiS",
     "active": true,
     "districtName": "Katowice",
@@ -903,7 +903,7 @@
   {
     "id": 139,
     "fullName": "Marek Jakubiak",
-    "birthYear": 1959,
+    "age": 67,
     "club": "niez.",
     "active": true,
     "districtName": "Warszawa",
@@ -914,7 +914,7 @@
   {
     "id": 110,
     "fullName": "Daria Gosek-Popiołek",
-    "birthYear": 1985,
+    "age": 41,
     "club": "Lewica",
     "active": true,
     "districtName": "Kraków",
@@ -925,7 +925,7 @@
   {
     "id": 210,
     "fullName": "Ewa Leniart",
-    "birthYear": 1976,
+    "age": 50,
     "club": "PiS",
     "active": true,
     "districtName": "Rzeszów",
@@ -936,7 +936,7 @@
   {
     "id": 460,
     "fullName": "Anna Żukowska",
-    "birthYear": 1983,
+    "age": 43,
     "club": "Lewica",
     "active": true,
     "districtName": "Warszawa",
@@ -947,7 +947,7 @@
   {
     "id": 360,
     "fullName": "Marek Suski",
-    "birthYear": 1958,
+    "age": 68,
     "club": "PiS",
     "active": true,
     "districtName": "Radom",
@@ -958,7 +958,7 @@
   {
     "id": 67,
     "fullName": "Barbara Dolniak",
-    "birthYear": 1960,
+    "age": 66,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -969,7 +969,7 @@
   {
     "id": 54,
     "fullName": "Krzysztof Czarnecki",
-    "birthYear": 1957,
+    "age": 69,
     "club": "PiS",
     "active": true,
     "districtName": "Piła",
@@ -980,7 +980,7 @@
   {
     "id": 16,
     "fullName": "Konrad Berkowicz",
-    "birthYear": 1984,
+    "age": 42,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Kraków",
@@ -991,7 +991,7 @@
   {
     "id": 111,
     "fullName": "Małgorzata Gosiewska",
-    "birthYear": 1966,
+    "age": 60,
     "club": "PiS",
     "active": false,
     "districtName": "Warszawa",
@@ -1002,7 +1002,7 @@
   {
     "id": 9,
     "fullName": "Marek Ast",
-    "birthYear": 1958,
+    "age": 68,
     "club": "PiS",
     "active": true,
     "districtName": "Zielona Góra",
@@ -1013,7 +1013,7 @@
   {
     "id": 213,
     "fullName": "Joanna Lichocka",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PiS",
     "active": true,
     "districtName": "Sieradz",
@@ -1024,7 +1024,7 @@
   {
     "id": 85,
     "fullName": "Krzysztof Gadowski",
-    "birthYear": 1962,
+    "age": 64,
     "club": "KO",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -1035,7 +1035,7 @@
   {
     "id": 304,
     "fullName": "Jacek Protas",
-    "birthYear": 1964,
+    "age": 62,
     "club": "KO",
     "active": false,
     "districtName": "Elbląg",
@@ -1046,7 +1046,7 @@
   {
     "id": 232,
     "fullName": "Jagna Marczułajtis-Walczak",
-    "birthYear": 1978,
+    "age": 48,
     "club": "KO",
     "active": false,
     "districtName": "Kraków",
@@ -1057,7 +1057,7 @@
   {
     "id": 441,
     "fullName": "Paweł Zalewski",
-    "birthYear": 1964,
+    "age": 62,
     "club": "niez.",
     "active": true,
     "districtName": "Warszawa",
@@ -1068,7 +1068,7 @@
   {
     "id": 274,
     "fullName": "Paweł Olszewski",
-    "birthYear": 1979,
+    "age": 47,
     "club": "KO",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -1079,7 +1079,7 @@
   {
     "id": 36,
     "fullName": "Agnieszka Buczyńska",
-    "birthYear": 1986,
+    "age": 40,
     "club": "Polska2050",
     "active": true,
     "districtName": "Gdańsk",
@@ -1090,7 +1090,7 @@
   {
     "id": 434,
     "fullName": "Bogusław Wołoszański",
-    "birthYear": 1950,
+    "age": 76,
     "club": "KO",
     "active": true,
     "districtName": "Piotrków Trybunalski",
@@ -1101,7 +1101,7 @@
   {
     "id": 328,
     "fullName": "Joanna Scheuring-Wielgus",
-    "birthYear": 1972,
+    "age": 54,
     "club": "Lewica",
     "active": false,
     "districtName": "Toruń",
@@ -1112,7 +1112,7 @@
   {
     "id": 383,
     "fullName": "Krzysztof Śmiszek",
-    "birthYear": 1979,
+    "age": 47,
     "club": "Lewica",
     "active": false,
     "districtName": "Wrocław",
@@ -1123,7 +1123,7 @@
   {
     "id": 205,
     "fullName": "Anna Kwiecień",
-    "birthYear": 1964,
+    "age": 62,
     "club": "PiS",
     "active": true,
     "districtName": "Radom",
@@ -1134,7 +1134,7 @@
   {
     "id": 13,
     "fullName": "Władysław Bartoszewski",
-    "birthYear": 1955,
+    "age": 71,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Warszawa",
@@ -1145,7 +1145,7 @@
   {
     "id": 18,
     "fullName": "Marek Biernacki",
-    "birthYear": 1959,
+    "age": 67,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Słupsk",
@@ -1156,7 +1156,7 @@
   {
     "id": 455,
     "fullName": "Tomasz Zimoch",
-    "birthYear": 1957,
+    "age": 69,
     "club": "niez.",
     "active": true,
     "districtName": "Wrocław",
@@ -1167,7 +1167,7 @@
   {
     "id": 366,
     "fullName": "Krzysztof Szczucki",
-    "birthYear": 1986,
+    "age": 40,
     "club": "PiS",
     "active": true,
     "districtName": "Toruń",
@@ -1178,7 +1178,7 @@
   {
     "id": 327,
     "fullName": "Ewa Schädler",
-    "birthYear": 1968,
+    "age": 58,
     "club": "Polska2050",
     "active": true,
     "districtName": "Poznań",
@@ -1189,7 +1189,7 @@
   {
     "id": 306,
     "fullName": "Grzegorz Puda",
-    "birthYear": 1982,
+    "age": 44,
     "club": "PiS",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -1200,7 +1200,7 @@
   {
     "id": 321,
     "fullName": "Jarosław Sachajko",
-    "birthYear": 1971,
+    "age": 55,
     "club": "Demokracja",
     "active": true,
     "districtName": "Chełm",
@@ -1211,7 +1211,7 @@
   {
     "id": 230,
     "fullName": "Maciej Małecki",
-    "birthYear": 1974,
+    "age": 52,
     "club": "PiS",
     "active": true,
     "districtName": "Płock",
@@ -1222,7 +1222,7 @@
   {
     "id": 231,
     "fullName": "Arkadiusz Marchewka",
-    "birthYear": 1986,
+    "age": 40,
     "club": "KO",
     "active": true,
     "districtName": "Szczecin",
@@ -1233,7 +1233,7 @@
   {
     "id": 177,
     "fullName": "Katarzyna Kotula",
-    "birthYear": 1977,
+    "age": 49,
     "club": "Lewica",
     "active": true,
     "districtName": "Gdańsk",
@@ -1244,7 +1244,7 @@
   {
     "id": 114,
     "fullName": "Krzysztof Grabczuk",
-    "birthYear": 1962,
+    "age": 64,
     "club": "KO",
     "active": true,
     "districtName": "Chełm",
@@ -1255,7 +1255,7 @@
   {
     "id": 381,
     "fullName": "Andrzej Śliwka",
-    "birthYear": 1988,
+    "age": 38,
     "club": "PiS",
     "active": true,
     "districtName": "Elbląg",
@@ -1266,7 +1266,7 @@
   {
     "id": 79,
     "fullName": "Radosław Fogiel",
-    "birthYear": 1982,
+    "age": 44,
     "club": "PiS",
     "active": true,
     "districtName": "Radom",
@@ -1277,7 +1277,7 @@
   {
     "id": 252,
     "fullName": "Joanna Mucha",
-    "birthYear": 1976,
+    "age": 50,
     "club": "niez.",
     "active": true,
     "districtName": "Lublin",
@@ -1288,7 +1288,7 @@
   {
     "id": 226,
     "fullName": "Antoni Macierewicz",
-    "birthYear": 1948,
+    "age": 78,
     "club": "PiS",
     "active": true,
     "districtName": "Piotrków Trybunalski",
@@ -1299,7 +1299,7 @@
   {
     "id": 288,
     "fullName": "Bolesław Piecha",
-    "birthYear": 1954,
+    "age": 72,
     "club": "PiS",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -1310,7 +1310,7 @@
   {
     "id": 310,
     "fullName": "Zbigniew Rau",
-    "birthYear": 1955,
+    "age": 71,
     "club": "PiS",
     "active": true,
     "districtName": "Łódź",
@@ -1321,7 +1321,7 @@
   {
     "id": 349,
     "fullName": "Artur Soboń",
-    "birthYear": 1977,
+    "age": 49,
     "club": "PiS",
     "active": false,
     "districtName": "Lublin",
@@ -1332,7 +1332,7 @@
   {
     "id": 49,
     "fullName": "Janusz Cichoń",
-    "birthYear": 1957,
+    "age": 69,
     "club": "KO",
     "active": true,
     "districtName": "Olsztyn",
@@ -1343,7 +1343,7 @@
   {
     "id": 117,
     "fullName": "Michał Gramatyka",
-    "birthYear": 1971,
+    "age": 55,
     "club": "Polska2050",
     "active": true,
     "districtName": "Katowice",
@@ -1354,7 +1354,7 @@
   {
     "id": 449,
     "fullName": "Piotr Zgorzelski",
-    "birthYear": 1963,
+    "age": 63,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Płock",
@@ -1365,7 +1365,7 @@
   {
     "id": 188,
     "fullName": "Robert Kropiwnicki",
-    "birthYear": 1974,
+    "age": 52,
     "club": "KO",
     "active": true,
     "districtName": "Legnica",
@@ -1376,7 +1376,7 @@
   {
     "id": 28,
     "fullName": "Kamil Bortniczuk",
-    "birthYear": 1983,
+    "age": 43,
     "club": "PiS",
     "active": true,
     "districtName": "Płock",
@@ -1387,7 +1387,7 @@
   {
     "id": 150,
     "fullName": "Sebastian Kaleta",
-    "birthYear": 1989,
+    "age": 37,
     "club": "PiS",
     "active": true,
     "districtName": "Warszawa",
@@ -1398,7 +1398,7 @@
   {
     "id": 130,
     "fullName": "Czesław Hoc",
-    "birthYear": 1954,
+    "age": 72,
     "club": "PiS",
     "active": true,
     "districtName": "Koszalin",
@@ -1409,7 +1409,7 @@
   {
     "id": 415,
     "fullName": "Rafał Weber",
-    "birthYear": 1981,
+    "age": 45,
     "club": "PiS",
     "active": true,
     "districtName": "Rzeszów",
@@ -1420,7 +1420,7 @@
   {
     "id": 359,
     "fullName": "Mirosław Suchoń",
-    "birthYear": 1976,
+    "age": 50,
     "club": "Centrum",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -1431,7 +1431,7 @@
   {
     "id": 76,
     "fullName": "Agnieszka Dziemianowicz-Bąk",
-    "birthYear": 1984,
+    "age": 42,
     "club": "Lewica",
     "active": true,
     "districtName": "Słupsk",
@@ -1442,7 +1442,7 @@
   {
     "id": 141,
     "fullName": "Michał Jaros",
-    "birthYear": 1981,
+    "age": 45,
     "club": "KO",
     "active": true,
     "districtName": "Wrocław",
@@ -1453,7 +1453,7 @@
   {
     "id": 30,
     "fullName": "Bożena Borys-Szopa",
-    "birthYear": 1954,
+    "age": 72,
     "club": "PiS",
     "active": true,
     "districtName": "Katowice",
@@ -1464,7 +1464,7 @@
   {
     "id": 305,
     "fullName": "Marcin Przydacz",
-    "birthYear": 1985,
+    "age": 41,
     "club": "PiS",
     "active": false,
     "districtName": "Sieradz",
@@ -1475,7 +1475,7 @@
   {
     "id": 128,
     "fullName": "Paulina Hennig-Kloska",
-    "birthYear": 1977,
+    "age": 49,
     "club": "Centrum",
     "active": true,
     "districtName": "Konin",
@@ -1486,7 +1486,7 @@
   {
     "id": 60,
     "fullName": "Zofia Czernow",
-    "birthYear": 1950,
+    "age": 76,
     "club": "KO",
     "active": true,
     "districtName": "Legnica",
@@ -1497,7 +1497,7 @@
   {
     "id": 179,
     "fullName": "Henryk Kowalczyk",
-    "birthYear": 1956,
+    "age": 70,
     "club": "PiS",
     "active": true,
     "districtName": "Siedlce",
@@ -1508,7 +1508,7 @@
   {
     "id": 388,
     "fullName": "Ryszard Terlecki",
-    "birthYear": 1949,
+    "age": 77,
     "club": "PiS",
     "active": true,
     "districtName": "Nowy Sącz",
@@ -1519,7 +1519,7 @@
   {
     "id": 368,
     "fullName": "Paweł Szefernaker",
-    "birthYear": 1987,
+    "age": 39,
     "club": "PiS",
     "active": false,
     "districtName": "Koszalin",
@@ -1530,7 +1530,7 @@
   {
     "id": 356,
     "fullName": "Dariusz Stefaniuk",
-    "birthYear": 1981,
+    "age": 45,
     "club": "PiS",
     "active": true,
     "districtName": "Chełm",
@@ -1541,7 +1541,7 @@
   {
     "id": 82,
     "fullName": "Joanna Frydrych",
-    "birthYear": 1978,
+    "age": 48,
     "club": "KO",
     "active": true,
     "districtName": "Krosno",
@@ -1552,7 +1552,7 @@
   {
     "id": 245,
     "fullName": "Aleksander Miszalski",
-    "birthYear": 1980,
+    "age": 46,
     "club": "KO",
     "active": false,
     "districtName": "Kraków",
@@ -1563,7 +1563,7 @@
   {
     "id": 120,
     "fullName": "Andrzej Grzyb",
-    "birthYear": 1956,
+    "age": 70,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Kalisz",
@@ -1574,7 +1574,7 @@
   {
     "id": 64,
     "fullName": "Władysław Dajczak",
-    "birthYear": 1959,
+    "age": 67,
     "club": "PiS",
     "active": true,
     "districtName": "Zielona Góra",
@@ -1585,7 +1585,7 @@
   {
     "id": 129,
     "fullName": "Krzysztof Hetman",
-    "birthYear": 1974,
+    "age": 52,
     "club": "PSL-TD",
     "active": false,
     "districtName": "Lublin",
@@ -1596,7 +1596,7 @@
   {
     "id": 440,
     "fullName": "Bartłomiej Wróblewski",
-    "birthYear": 1975,
+    "age": 51,
     "club": "PiS",
     "active": true,
     "districtName": "Poznań",
@@ -1607,7 +1607,7 @@
   {
     "id": 258,
     "fullName": "Dorota Niedziela",
-    "birthYear": 1964,
+    "age": 62,
     "club": "KO",
     "active": true,
     "districtName": "Kraków",
@@ -1618,7 +1618,7 @@
   {
     "id": 323,
     "fullName": "Wojciech Saługa",
-    "birthYear": 1969,
+    "age": 57,
     "club": "KO",
     "active": false,
     "districtName": "Katowice",
@@ -1629,7 +1629,7 @@
   {
     "id": 329,
     "fullName": "Anna Schmidt",
-    "birthYear": 1978,
+    "age": 48,
     "club": "PiS",
     "active": true,
     "districtName": "Krosno",
@@ -1640,7 +1640,7 @@
   {
     "id": 6,
     "fullName": "Jan Ardanowski",
-    "birthYear": 1961,
+    "age": 65,
     "club": "Demokracja",
     "active": true,
     "districtName": "Toruń",
@@ -1651,7 +1651,7 @@
   {
     "id": 365,
     "fullName": "Michał Szczerba",
-    "birthYear": 1977,
+    "age": 49,
     "club": "KO",
     "active": false,
     "districtName": "Warszawa",
@@ -1662,7 +1662,7 @@
   {
     "id": 303,
     "fullName": "Marcin Porzucek",
-    "birthYear": 1984,
+    "age": 42,
     "club": "PiS",
     "active": true,
     "districtName": "Piła",
@@ -1673,7 +1673,7 @@
   {
     "id": 283,
     "fullName": "Krzysztof Paszyk",
-    "birthYear": 1979,
+    "age": 47,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Piła",
@@ -1684,7 +1684,7 @@
   {
     "id": 292,
     "fullName": "Norbert Pietrykowski",
-    "birthYear": 1973,
+    "age": 53,
     "club": "Centrum",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -1695,7 +1695,7 @@
   {
     "id": 309,
     "fullName": "Ireneusz Raś",
-    "birthYear": 1972,
+    "age": 54,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Kraków",
@@ -1706,7 +1706,7 @@
   {
     "id": 318,
     "fullName": "Paweł Rychlik",
-    "birthYear": 1986,
+    "age": 40,
     "club": "PiS",
     "active": true,
     "districtName": "Sieradz",
@@ -1717,7 +1717,7 @@
   {
     "id": 351,
     "fullName": "Zbigniew Sosnowski",
-    "birthYear": 1963,
+    "age": 63,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Toruń",
@@ -1728,7 +1728,7 @@
   {
     "id": 10,
     "fullName": "Urszula Augustyn",
-    "birthYear": 1964,
+    "age": 62,
     "club": "KO",
     "active": true,
     "districtName": "Tarnów",
@@ -1739,7 +1739,7 @@
   {
     "id": 345,
     "fullName": "Weronika Smarduch",
-    "birthYear": 1990,
+    "age": 36,
     "club": "KO",
     "active": true,
     "districtName": "Nowy Sącz",
@@ -1750,7 +1750,7 @@
   {
     "id": 281,
     "fullName": "Paweł Papke",
-    "birthYear": 1977,
+    "age": 49,
     "club": "KO",
     "active": true,
     "districtName": "Olsztyn",
@@ -1761,7 +1761,7 @@
   {
     "id": 282,
     "fullName": "Urszula Pasławska",
-    "birthYear": 1977,
+    "age": 49,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Olsztyn",
@@ -1772,7 +1772,7 @@
   {
     "id": 34,
     "fullName": "Grzegorz Braun",
-    "birthYear": 1967,
+    "age": 59,
     "club": "Konfederacja",
     "active": false,
     "districtName": "Rzeszów",
@@ -1783,7 +1783,7 @@
   {
     "id": 407,
     "fullName": "Marcin Warchoł",
-    "birthYear": 1980,
+    "age": 46,
     "club": "PiS",
     "active": true,
     "districtName": "Rzeszów",
@@ -1794,7 +1794,7 @@
   {
     "id": 23,
     "fullName": "Izabela Bodnar",
-    "birthYear": 1975,
+    "age": 51,
     "club": "Centrum",
     "active": true,
     "districtName": "Wrocław",
@@ -1805,7 +1805,7 @@
   {
     "id": 25,
     "fullName": "Zbigniew Bogucki",
-    "birthYear": 1980,
+    "age": 46,
     "club": "PiS",
     "active": false,
     "districtName": "Szczecin",
@@ -1816,7 +1816,7 @@
   {
     "id": 395,
     "fullName": "Tomasz Trela",
-    "birthYear": 1979,
+    "age": 47,
     "club": "Lewica",
     "active": true,
     "districtName": "Łódź",
@@ -1827,7 +1827,7 @@
   {
     "id": 367,
     "fullName": "Józefa Szczurek-Żelazko",
-    "birthYear": 1961,
+    "age": 65,
     "club": "PiS",
     "active": true,
     "districtName": "Tarnów",
@@ -1838,7 +1838,7 @@
   {
     "id": 376,
     "fullName": "Ewa Szymanowska",
-    "birthYear": 1978,
+    "age": 48,
     "club": "Centrum",
     "active": true,
     "districtName": "Łódź",
@@ -1849,7 +1849,7 @@
   {
     "id": 165,
     "fullName": "Łukasz Kmita",
-    "birthYear": 1985,
+    "age": 41,
     "club": "PiS",
     "active": true,
     "districtName": "Kraków",
@@ -1860,7 +1860,7 @@
   {
     "id": 285,
     "fullName": "Bartłomiej Pejo",
-    "birthYear": 1985,
+    "age": 41,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Lublin",
@@ -1871,7 +1871,7 @@
   {
     "id": 27,
     "fullName": "Joanna Borowiak",
-    "birthYear": 1967,
+    "age": 59,
     "club": "PiS",
     "active": true,
     "districtName": "Toruń",
@@ -1882,7 +1882,7 @@
   {
     "id": 95,
     "fullName": "Anna Gembicka",
-    "birthYear": 1991,
+    "age": 35,
     "club": "PiS",
     "active": true,
     "districtName": "Toruń",
@@ -1893,7 +1893,7 @@
   {
     "id": 397,
     "fullName": "Krzysztof Tuduj",
-    "birthYear": 1981,
+    "age": 45,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Wrocław",
@@ -1904,7 +1904,7 @@
   {
     "id": 386,
     "fullName": "Krzysztof Tchórzewski",
-    "birthYear": 1950,
+    "age": 76,
     "club": "PiS",
     "active": true,
     "districtName": "Siedlce",
@@ -1915,7 +1915,7 @@
   {
     "id": 66,
     "fullName": "Zbigniew Dolata",
-    "birthYear": 1965,
+    "age": 61,
     "club": "PiS",
     "active": true,
     "districtName": "Konin",
@@ -1926,7 +1926,7 @@
   {
     "id": 326,
     "fullName": "Marek Sawicki",
-    "birthYear": 1958,
+    "age": 68,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Siedlce",
@@ -1937,7 +1937,7 @@
   {
     "id": 425,
     "fullName": "Aleksandra Uznańska-Wiśniewska",
-    "birthYear": 1994,
+    "age": 32,
     "club": "KO",
     "active": true,
     "districtName": "Łódź",
@@ -1948,7 +1948,7 @@
   {
     "id": 83,
     "fullName": "Konrad Frysztak",
-    "birthYear": 1986,
+    "age": 40,
     "club": "KO",
     "active": true,
     "districtName": "Radom",
@@ -1959,7 +1959,7 @@
   {
     "id": 12,
     "fullName": "Ryszard Bartosik",
-    "birthYear": 1968,
+    "age": 58,
     "club": "PiS",
     "active": true,
     "districtName": "Konin",
@@ -1970,7 +1970,7 @@
   {
     "id": 15,
     "fullName": "Paweł Bejda",
-    "birthYear": 1962,
+    "age": 64,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Sieradz",
@@ -1981,7 +1981,7 @@
   {
     "id": 264,
     "fullName": "Maja Nowak",
-    "birthYear": 1987,
+    "age": 39,
     "club": "Polska2050",
     "active": true,
     "districtName": "Zielona Góra",
@@ -1992,7 +1992,7 @@
   {
     "id": 344,
     "fullName": "Waldemar Sługocki",
-    "birthYear": 1971,
+    "age": 55,
     "club": "KO",
     "active": true,
     "districtName": "Zielona Góra",
@@ -2003,7 +2003,7 @@
   {
     "id": 107,
     "fullName": "Robert Gontarz",
-    "birthYear": 1993,
+    "age": 33,
     "club": "PiS",
     "active": true,
     "districtName": "Elbląg",
@@ -2014,7 +2014,7 @@
   {
     "id": 390,
     "fullName": "Jacek Tomczak",
-    "birthYear": 1973,
+    "age": 53,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Poznań",
@@ -2025,7 +2025,7 @@
   {
     "id": 184,
     "fullName": "Wiesław Krajewski",
-    "birthYear": 1964,
+    "age": 62,
     "club": "PiS",
     "active": true,
     "districtName": "Tarnów",
@@ -2036,7 +2036,7 @@
   {
     "id": 488,
     "fullName": "Jarosław Krajewski",
-    "birthYear": 1983,
+    "age": 43,
     "club": "PiS",
     "active": true,
     "districtName": "Warszawa",
@@ -2047,7 +2047,7 @@
   {
     "id": 204,
     "fullName": "Zbigniew Kuźmiuk",
-    "birthYear": 1956,
+    "age": 70,
     "club": "PiS",
     "active": true,
     "districtName": "Radom",
@@ -2058,7 +2058,7 @@
   {
     "id": 352,
     "fullName": "Marek Sowa",
-    "birthYear": 1967,
+    "age": 59,
     "club": "KO",
     "active": true,
     "districtName": "Kraków",
@@ -2069,7 +2069,7 @@
   {
     "id": 402,
     "fullName": "Katarzyna Ueberhan",
-    "birthYear": 1975,
+    "age": 51,
     "club": "Lewica",
     "active": true,
     "districtName": "Poznań",
@@ -2080,7 +2080,7 @@
   {
     "id": 267,
     "fullName": "Urszula Nowogórska",
-    "birthYear": 1978,
+    "age": 48,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Nowy Sącz",
@@ -2091,7 +2091,7 @@
   {
     "id": 74,
     "fullName": "Adam Dziedzic",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Rzeszów",
@@ -2102,7 +2102,7 @@
   {
     "id": 31,
     "fullName": "Marcin Bosacki",
-    "birthYear": 1970,
+    "age": 56,
     "club": "KO",
     "active": true,
     "districtName": "Poznań",
@@ -2112,7 +2112,7 @@
   {
     "id": 286,
     "fullName": "Ryszard Petru",
-    "birthYear": 1972,
+    "age": 54,
     "club": "Centrum",
     "active": true,
     "districtName": "Warszawa",
@@ -2123,7 +2123,7 @@
   {
     "id": 413,
     "fullName": "Maciej Wąsik",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PiS",
     "active": false,
     "districtName": "Płock",
@@ -2134,7 +2134,7 @@
   {
     "id": 301,
     "fullName": "Piotr Polak",
-    "birthYear": 1961,
+    "age": 65,
     "club": "PiS",
     "active": true,
     "districtName": "Sieradz",
@@ -2145,7 +2145,7 @@
   {
     "id": 448,
     "fullName": "Witold Zembaczyński",
-    "birthYear": 1980,
+    "age": 46,
     "club": "KO",
     "active": true,
     "districtName": "Opole",
@@ -2156,7 +2156,7 @@
   {
     "id": 97,
     "fullName": "Roman Giertych",
-    "birthYear": 1971,
+    "age": 55,
     "club": "KO",
     "active": true,
     "districtName": "Kielce",
@@ -2167,7 +2167,7 @@
   {
     "id": 140,
     "fullName": "Maria Janyska",
-    "birthYear": 1962,
+    "age": 64,
     "club": "KO",
     "active": true,
     "districtName": "Piła",
@@ -2178,7 +2178,7 @@
   {
     "id": 420,
     "fullName": "Jarosław Wieczorek",
-    "birthYear": 1981,
+    "age": 45,
     "club": "PiS",
     "active": true,
     "districtName": "Katowice",
@@ -2188,7 +2188,7 @@
   {
     "id": 123,
     "fullName": "Marcin Gwóźdź",
-    "birthYear": 1977,
+    "age": 49,
     "club": "PiS",
     "active": true,
     "districtName": "Wałbrzych",
@@ -2199,7 +2199,7 @@
   {
     "id": 2,
     "fullName": "Piotr Adamowicz",
-    "birthYear": 1961,
+    "age": 65,
     "club": "KO",
     "active": true,
     "districtName": "Gdańsk",
@@ -2210,7 +2210,7 @@
   {
     "id": 198,
     "fullName": "Anita Kucharska-Dziedzic",
-    "birthYear": 1972,
+    "age": 54,
     "club": "Lewica",
     "active": true,
     "districtName": "Zielona Góra",
@@ -2221,7 +2221,7 @@
   {
     "id": 137,
     "fullName": "Paweł Jabłoński",
-    "birthYear": 1986,
+    "age": 40,
     "club": "PiS",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -2232,7 +2232,7 @@
   {
     "id": 404,
     "fullName": "Piotr Uruski",
-    "birthYear": 1976,
+    "age": 50,
     "club": "PiS",
     "active": true,
     "districtName": "Krosno",
@@ -2243,7 +2243,7 @@
   {
     "id": 4,
     "fullName": "Waldemar Andzel",
-    "birthYear": 1971,
+    "age": 55,
     "club": "PiS",
     "active": true,
     "districtName": "Katowice",
@@ -2254,7 +2254,7 @@
   {
     "id": 242,
     "fullName": "Anna Milczanowska",
-    "birthYear": 1958,
+    "age": 68,
     "club": "PiS",
     "active": true,
     "districtName": "Piotrków Trybunalski",
@@ -2265,7 +2265,7 @@
   {
     "id": 470,
     "fullName": "Bożenna Hołownia",
-    "birthYear": 1953,
+    "age": 73,
     "club": "Polska2050",
     "active": true,
     "districtName": "Warszawa",
@@ -2276,7 +2276,7 @@
   {
     "id": 218,
     "fullName": "Katarzyna Lubnauer",
-    "birthYear": 1969,
+    "age": 57,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -2287,7 +2287,7 @@
   {
     "id": 316,
     "fullName": "Grzegorz Rusiecki",
-    "birthYear": 1983,
+    "age": 43,
     "club": "KO",
     "active": false,
     "districtName": "Kalisz",
@@ -2298,7 +2298,7 @@
   {
     "id": 58,
     "fullName": "Włodzimierz Czarzasty",
-    "birthYear": 1960,
+    "age": 66,
     "club": "Lewica",
     "active": true,
     "districtName": "Katowice",
@@ -2309,7 +2309,7 @@
   {
     "id": 287,
     "fullName": "Małgorzata Pępek",
-    "birthYear": 1961,
+    "age": 65,
     "club": "KO",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -2320,7 +2320,7 @@
   {
     "id": 294,
     "fullName": "Dariusz Piontkowski",
-    "birthYear": 1964,
+    "age": 62,
     "club": "PiS",
     "active": true,
     "districtName": "Białystok",
@@ -2331,7 +2331,7 @@
   {
     "id": 154,
     "fullName": "Jan Kanthak",
-    "birthYear": 1991,
+    "age": 35,
     "club": "PiS",
     "active": true,
     "districtName": "Lublin",
@@ -2342,7 +2342,7 @@
   {
     "id": 248,
     "fullName": "Michał Moskal",
-    "birthYear": 1994,
+    "age": 32,
     "club": "PiS",
     "active": true,
     "districtName": "Lublin",
@@ -2353,7 +2353,7 @@
   {
     "id": 106,
     "fullName": "Adam Gomoła",
-    "birthYear": 1999,
+    "age": 27,
     "club": "Polska2050",
     "active": true,
     "districtName": "Opole",
@@ -2364,7 +2364,7 @@
   {
     "id": 335,
     "fullName": "Czesław Siekierski",
-    "birthYear": 1952,
+    "age": 74,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Kielce",
@@ -2375,7 +2375,7 @@
   {
     "id": 90,
     "fullName": "Krzysztof Gawkowski",
-    "birthYear": 1980,
+    "age": 46,
     "club": "Lewica",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -2386,7 +2386,7 @@
   {
     "id": 162,
     "fullName": "Dariusz Klimczak",
-    "birthYear": 1980,
+    "age": 46,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Piotrków Trybunalski",
@@ -2397,7 +2397,7 @@
   {
     "id": 284,
     "fullName": "Karolina Pawliczak",
-    "birthYear": 1976,
+    "age": 50,
     "club": "KO",
     "active": true,
     "districtName": "Kalisz",
@@ -2408,7 +2408,7 @@
   {
     "id": 312,
     "fullName": "Bartosz Romowicz",
-    "birthYear": 1988,
+    "age": 38,
     "club": "Polska2050",
     "active": true,
     "districtName": "Krosno",
@@ -2419,7 +2419,7 @@
   {
     "id": 320,
     "fullName": "Jarosław Rzepa",
-    "birthYear": 1972,
+    "age": 54,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Szczecin",
@@ -2430,7 +2430,7 @@
   {
     "id": 14,
     "fullName": "Barbara Bartuś",
-    "birthYear": 1967,
+    "age": 59,
     "club": "PiS",
     "active": true,
     "districtName": "Nowy Sącz",
@@ -2441,7 +2441,7 @@
   {
     "id": 163,
     "fullName": "Joanna Kluzik-Rostkowska",
-    "birthYear": 1963,
+    "age": 63,
     "club": "KO",
     "active": true,
     "districtName": "Radom",
@@ -2452,7 +2452,7 @@
   {
     "id": 32,
     "fullName": "Karina Bosak",
-    "birthYear": 1988,
+    "age": 38,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Warszawa",
@@ -2463,7 +2463,7 @@
   {
     "id": 260,
     "fullName": "Małgorzata Niemczyk",
-    "birthYear": 1969,
+    "age": 57,
     "club": "KO",
     "active": true,
     "districtName": "Łódź",
@@ -2474,7 +2474,7 @@
   {
     "id": 202,
     "fullName": "Maria Kurowska",
-    "birthYear": 1954,
+    "age": 72,
     "club": "PiS",
     "active": true,
     "districtName": "Krosno",
@@ -2485,7 +2485,7 @@
   {
     "id": 452,
     "fullName": "Jarosław Zieliński",
-    "birthYear": 1960,
+    "age": 66,
     "club": "PiS",
     "active": true,
     "districtName": "Białystok",
@@ -2496,7 +2496,7 @@
   {
     "id": 385,
     "fullName": "Apoloniusz Tajner",
-    "birthYear": 1954,
+    "age": 72,
     "club": "KO",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -2507,7 +2507,7 @@
   {
     "id": 159,
     "fullName": "Henryk Kiepura",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Częstochowa",
@@ -2518,7 +2518,7 @@
   {
     "id": 51,
     "fullName": "Janusz Cieszyński",
-    "birthYear": 1988,
+    "age": 38,
     "club": "PiS",
     "active": true,
     "districtName": "Olsztyn",
@@ -2529,7 +2529,7 @@
   {
     "id": 208,
     "fullName": "Maciej Lasek",
-    "birthYear": 1967,
+    "age": 59,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -2540,7 +2540,7 @@
   {
     "id": 373,
     "fullName": "Paweł Szrot",
-    "birthYear": 1975,
+    "age": 51,
     "club": "PiS",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -2551,7 +2551,7 @@
   {
     "id": 161,
     "fullName": "Katarzyna Kierzek-Koperska",
-    "birthYear": 1974,
+    "age": 52,
     "club": "KO",
     "active": true,
     "districtName": "Poznań",
@@ -2562,7 +2562,7 @@
   {
     "id": 62,
     "fullName": "Katarzyna Czochara",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PiS",
     "active": true,
     "districtName": "Opole",
@@ -2573,7 +2573,7 @@
   {
     "id": 401,
     "fullName": "Stanisław Tyszka",
-    "birthYear": 1979,
+    "age": 47,
     "club": "Konfederacja",
     "active": false,
     "districtName": "Słupsk",
@@ -2584,7 +2584,7 @@
   {
     "id": 216,
     "fullName": "Grzegorz Lorek",
-    "birthYear": 1970,
+    "age": 56,
     "club": "PiS",
     "active": true,
     "districtName": "Piotrków Trybunalski",
@@ -2595,7 +2595,7 @@
   {
     "id": 437,
     "fullName": "Tadeusz Woźniak",
-    "birthYear": 1960,
+    "age": 66,
     "club": "PiS",
     "active": true,
     "districtName": "Sieradz",
@@ -2606,7 +2606,7 @@
   {
     "id": 279,
     "fullName": "Jacek Ozdoba",
-    "birthYear": 1991,
+    "age": 35,
     "club": "PiS",
     "active": false,
     "districtName": "Płock",
@@ -2617,7 +2617,7 @@
   {
     "id": 382,
     "fullName": "Paweł Śliz",
-    "birthYear": 1980,
+    "age": 46,
     "club": "Polska2050",
     "active": true,
     "districtName": "Kraków",
@@ -2628,7 +2628,7 @@
   {
     "id": 276,
     "fullName": "Łukasz Osmalak",
-    "birthYear": 1977,
+    "age": 49,
     "club": "Polska2050",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -2639,7 +2639,7 @@
   {
     "id": 484,
     "fullName": "Marta Stożek",
-    "birthYear": 1976,
+    "age": 50,
     "club": "Razem",
     "active": true,
     "districtName": "Wrocław",
@@ -2650,7 +2650,7 @@
   {
     "id": 103,
     "fullName": "Marta Golbik",
-    "birthYear": 1985,
+    "age": 41,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -2661,7 +2661,7 @@
   {
     "id": 334,
     "fullName": "Krystyna Sibińska",
-    "birthYear": 1962,
+    "age": 64,
     "club": "KO",
     "active": true,
     "districtName": "Zielona Góra",
@@ -2672,7 +2672,7 @@
   {
     "id": 445,
     "fullName": "Marcelina Zawisza",
-    "birthYear": 1989,
+    "age": 37,
     "club": "Razem",
     "active": true,
     "districtName": "Opole",
@@ -2683,7 +2683,7 @@
   {
     "id": 136,
     "fullName": "Paweł Hreniak",
-    "birthYear": 1979,
+    "age": 47,
     "club": "PiS",
     "active": true,
     "districtName": "Wrocław",
@@ -2694,7 +2694,7 @@
   {
     "id": 422,
     "fullName": "Ryszard Wilk",
-    "birthYear": 1987,
+    "age": 39,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Nowy Sącz",
@@ -2705,7 +2705,7 @@
   {
     "id": 48,
     "fullName": "Anna Cicholska",
-    "birthYear": 1962,
+    "age": 64,
     "club": "PiS",
     "active": true,
     "districtName": "Płock",
@@ -2716,7 +2716,7 @@
   {
     "id": 151,
     "fullName": "Mariusz Kałużny",
-    "birthYear": 1986,
+    "age": 40,
     "club": "PiS",
     "active": true,
     "districtName": "Toruń",
@@ -2727,7 +2727,7 @@
   {
     "id": 124,
     "fullName": "Marek Gzik",
-    "birthYear": 1971,
+    "age": 55,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -2738,7 +2738,7 @@
   {
     "id": 431,
     "fullName": "Anna Wojciechowska",
-    "birthYear": 1960,
+    "age": 66,
     "club": "KO",
     "active": true,
     "districtName": "Olsztyn",
@@ -2749,7 +2749,7 @@
   {
     "id": 296,
     "fullName": "Grzegorz Płaczek",
-    "birthYear": 1978,
+    "age": 48,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Katowice",
@@ -2760,7 +2760,7 @@
   {
     "id": 350,
     "fullName": "Agnieszka Soin",
-    "birthYear": 1977,
+    "age": 49,
     "club": "PiS",
     "active": true,
     "districtName": "Wrocław",
@@ -2771,7 +2771,7 @@
   {
     "id": 194,
     "fullName": "Marek Krząkała",
-    "birthYear": 1967,
+    "age": 59,
     "club": "KO",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -2782,7 +2782,7 @@
   {
     "id": 418,
     "fullName": "Patryk Wicher",
-    "birthYear": 1986,
+    "age": 40,
     "club": "PiS",
     "active": true,
     "districtName": "Nowy Sącz",
@@ -2793,7 +2793,7 @@
   {
     "id": 333,
     "fullName": "Edward Siarka",
-    "birthYear": 1963,
+    "age": 63,
     "club": "PiS",
     "active": true,
     "districtName": "Nowy Sącz",
@@ -2804,7 +2804,7 @@
   {
     "id": 42,
     "fullName": "Zbigniew Chmielowiec",
-    "birthYear": 1954,
+    "age": 72,
     "club": "PiS",
     "active": true,
     "districtName": "Rzeszów",
@@ -2815,7 +2815,7 @@
   {
     "id": 61,
     "fullName": "Anita Czerwińska",
-    "birthYear": 1970,
+    "age": 56,
     "club": "PiS",
     "active": true,
     "districtName": "Warszawa",
@@ -2826,7 +2826,7 @@
   {
     "id": 348,
     "fullName": "Krzysztof Sobolewski",
-    "birthYear": 1978,
+    "age": 48,
     "club": "PiS",
     "active": true,
     "districtName": "Rzeszów",
@@ -2837,7 +2837,7 @@
   {
     "id": 225,
     "fullName": "Marzena Machałek",
-    "birthYear": 1960,
+    "age": 66,
     "club": "PiS",
     "active": true,
     "districtName": "Legnica",
@@ -2848,7 +2848,7 @@
   {
     "id": 354,
     "fullName": "Magdalena Sroka",
-    "birthYear": 1979,
+    "age": 47,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Gdańsk",
@@ -2859,7 +2859,7 @@
   {
     "id": 412,
     "fullName": "Michał Wawer",
-    "birthYear": 1989,
+    "age": 37,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Kielce",
@@ -2870,7 +2870,7 @@
   {
     "id": 147,
     "fullName": "Filip Kaczyński",
-    "birthYear": 1987,
+    "age": 39,
     "club": "PiS",
     "active": true,
     "districtName": "Kraków",
@@ -2881,7 +2881,7 @@
   {
     "id": 476,
     "fullName": "Wioletta Kulpa",
-    "birthYear": 1974,
+    "age": 52,
     "club": "PiS",
     "active": true,
     "districtName": "Płock",
@@ -2892,7 +2892,7 @@
   {
     "id": 353,
     "fullName": "Katarzyna Sójka",
-    "birthYear": 1986,
+    "age": 40,
     "club": "PiS",
     "active": true,
     "districtName": "Kalisz",
@@ -2903,7 +2903,7 @@
   {
     "id": 80,
     "fullName": "Bronisław Foltyn",
-    "birthYear": 1974,
+    "age": 52,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -2914,7 +2914,7 @@
   {
     "id": 155,
     "fullName": "Fryderyk Kapinos",
-    "birthYear": 1961,
+    "age": 65,
     "club": "PiS",
     "active": true,
     "districtName": "Rzeszów",
@@ -2925,7 +2925,7 @@
   {
     "id": 369,
     "fullName": "Andrzej Szejna",
-    "birthYear": 1973,
+    "age": 53,
     "club": "Lewica",
     "active": true,
     "districtName": "Kielce",
@@ -2936,7 +2936,7 @@
   {
     "id": 189,
     "fullName": "Piotr Król",
-    "birthYear": 1974,
+    "age": 52,
     "club": "PiS",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -2947,7 +2947,7 @@
   {
     "id": 172,
     "fullName": "Maciej Konieczny",
-    "birthYear": 1980,
+    "age": 46,
     "club": "Razem",
     "active": true,
     "districtName": "Katowice",
@@ -2958,7 +2958,7 @@
   {
     "id": 127,
     "fullName": "Iwona Hartwich",
-    "birthYear": 1970,
+    "age": 56,
     "club": "KO",
     "active": true,
     "districtName": "Toruń",
@@ -2969,7 +2969,7 @@
   {
     "id": 71,
     "fullName": "Przemysław Drabek",
-    "birthYear": 1979,
+    "age": 47,
     "club": "PiS",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -2980,7 +2980,7 @@
   {
     "id": 229,
     "fullName": "Mirosław Maliszewski",
-    "birthYear": 1968,
+    "age": 58,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Radom",
@@ -2991,7 +2991,7 @@
   {
     "id": 377,
     "fullName": "Tomasz Szymański",
-    "birthYear": 1978,
+    "age": 48,
     "club": "KO",
     "active": true,
     "districtName": "Toruń",
@@ -3002,7 +3002,7 @@
   {
     "id": 239,
     "fullName": "Paulina Matysiak",
-    "birthYear": 1984,
+    "age": 42,
     "club": "niez.",
     "active": true,
     "districtName": "Sieradz",
@@ -3013,7 +3013,7 @@
   {
     "id": 394,
     "fullName": "Małgorzata Tracz",
-    "birthYear": 1985,
+    "age": 41,
     "club": "KO",
     "active": true,
     "districtName": "Wrocław",
@@ -3024,7 +3024,7 @@
   {
     "id": 358,
     "fullName": "Piotr Strach",
-    "birthYear": 1982,
+    "age": 44,
     "club": "Polska2050",
     "active": true,
     "districtName": "Katowice",
@@ -3035,7 +3035,7 @@
   {
     "id": 55,
     "fullName": "Witold Czarnecki",
-    "birthYear": 1953,
+    "age": 73,
     "club": "PiS",
     "active": true,
     "districtName": "Konin",
@@ -3046,7 +3046,7 @@
   {
     "id": 17,
     "fullName": "Sylwia Bielawska",
-    "birthYear": 1975,
+    "age": 51,
     "club": "KO",
     "active": true,
     "districtName": "Wałbrzych",
@@ -3057,7 +3057,7 @@
   {
     "id": 235,
     "fullName": "Jerzy Materna",
-    "birthYear": 1956,
+    "age": 70,
     "club": "PiS",
     "active": true,
     "districtName": "Zielona Góra",
@@ -3068,7 +3068,7 @@
   {
     "id": 43,
     "fullName": "Artur Chojecki",
-    "birthYear": 1974,
+    "age": 52,
     "club": "PiS",
     "active": true,
     "districtName": "Olsztyn",
@@ -3079,7 +3079,7 @@
   {
     "id": 459,
     "fullName": "Bożena Żelazowska",
-    "birthYear": 1970,
+    "age": 56,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Warszawa",
@@ -3090,7 +3090,7 @@
   {
     "id": 238,
     "fullName": "Marek Matuszewski",
-    "birthYear": 1959,
+    "age": 67,
     "club": "PiS",
     "active": true,
     "districtName": "Sieradz",
@@ -3101,7 +3101,7 @@
   {
     "id": 406,
     "fullName": "Jarosław Wałęsa",
-    "birthYear": 1976,
+    "age": 50,
     "club": "KO",
     "active": true,
     "districtName": "Gdańsk",
@@ -3112,7 +3112,7 @@
   {
     "id": 409,
     "fullName": "Robert Warwas",
-    "birthYear": 1976,
+    "age": 50,
     "club": "PiS",
     "active": true,
     "districtName": "Katowice",
@@ -3123,7 +3123,7 @@
   {
     "id": 311,
     "fullName": "Marcin Romanowski",
-    "birthYear": 1976,
+    "age": 50,
     "club": "PiS",
     "active": true,
     "districtName": "Chełm",
@@ -3134,7 +3134,7 @@
   {
     "id": 314,
     "fullName": "Wiesław Różyński",
-    "birthYear": 1968,
+    "age": 58,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Chełm",
@@ -3145,7 +3145,7 @@
   {
     "id": 389,
     "fullName": "Tadeusz Tomaszewski",
-    "birthYear": 1959,
+    "age": 67,
     "club": "Lewica",
     "active": true,
     "districtName": "Konin",
@@ -3156,7 +3156,7 @@
   {
     "id": 181,
     "fullName": "Bartosz Kownacki",
-    "birthYear": 1979,
+    "age": 47,
     "club": "PiS",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -3167,7 +3167,7 @@
   {
     "id": 315,
     "fullName": "Urszula Rusecka",
-    "birthYear": 1966,
+    "age": 60,
     "club": "PiS",
     "active": true,
     "districtName": "Tarnów",
@@ -3178,7 +3178,7 @@
   {
     "id": 266,
     "fullName": "Wanda Nowicka",
-    "birthYear": 1956,
+    "age": 70,
     "club": "Lewica",
     "active": true,
     "districtName": "Katowice",
@@ -3189,7 +3189,7 @@
   {
     "id": 96,
     "fullName": "Artur Gierada",
-    "birthYear": 1979,
+    "age": 47,
     "club": "KO",
     "active": true,
     "districtName": "Kielce",
@@ -3200,7 +3200,7 @@
   {
     "id": 497,
     "fullName": "Tomasz Rzymkowski",
-    "birthYear": 1986,
+    "age": 40,
     "club": "Demokracja",
     "active": true,
     "districtName": "Sieradz",
@@ -3211,7 +3211,7 @@
   {
     "id": 126,
     "fullName": "Agnieszka Hanajczyk",
-    "birthYear": 1963,
+    "age": 63,
     "club": "KO",
     "active": true,
     "districtName": "Sieradz",
@@ -3222,7 +3222,7 @@
   {
     "id": 7,
     "fullName": "Iwona Arent",
-    "birthYear": 1968,
+    "age": 58,
     "club": "PiS",
     "active": true,
     "districtName": "Olsztyn",
@@ -3233,7 +3233,7 @@
   {
     "id": 211,
     "fullName": "Aleksandra Leo",
-    "birthYear": 1981,
+    "age": 45,
     "club": "Centrum",
     "active": true,
     "districtName": "Wałbrzych",
@@ -3244,7 +3244,7 @@
   {
     "id": 209,
     "fullName": "Gabriela Lenartowicz",
-    "birthYear": 1960,
+    "age": 66,
     "club": "KO",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -3255,7 +3255,7 @@
   {
     "id": 451,
     "fullName": "Urszula Zielińska",
-    "birthYear": 1977,
+    "age": 49,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -3266,7 +3266,7 @@
   {
     "id": 121,
     "fullName": "Andrzej Gut-Mostowy",
-    "birthYear": 1960,
+    "age": 66,
     "club": "PiS",
     "active": true,
     "districtName": "Nowy Sącz",
@@ -3277,7 +3277,7 @@
   {
     "id": 223,
     "fullName": "Krystian Łuczak",
-    "birthYear": 1975,
+    "age": 51,
     "club": "KO",
     "active": true,
     "districtName": "Toruń",
@@ -3288,7 +3288,7 @@
   {
     "id": 149,
     "fullName": "Piotr Kaleta",
-    "birthYear": 1968,
+    "age": 58,
     "club": "PiS",
     "active": true,
     "districtName": "Kalisz",
@@ -3299,7 +3299,7 @@
   {
     "id": 430,
     "fullName": "Kamil Wnuk",
-    "birthYear": 1984,
+    "age": 42,
     "club": "Polska2050",
     "active": true,
     "districtName": "Katowice",
@@ -3310,7 +3310,7 @@
   {
     "id": 426,
     "fullName": "Adrian Witczak",
-    "birthYear": 1991,
+    "age": 35,
     "club": "KO",
     "active": true,
     "districtName": "Piotrków Trybunalski",
@@ -3321,7 +3321,7 @@
   {
     "id": 346,
     "fullName": "Kazimierz Smoliński",
-    "birthYear": 1955,
+    "age": 71,
     "club": "PiS",
     "active": true,
     "districtName": "Gdańsk",
@@ -3332,7 +3332,7 @@
   {
     "id": 324,
     "fullName": "Tadeusz Samborski",
-    "birthYear": 1945,
+    "age": 81,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Legnica",
@@ -3343,7 +3343,7 @@
   {
     "id": 102,
     "fullName": "Piotr Głowski",
-    "birthYear": 1967,
+    "age": 59,
     "club": "KO",
     "active": true,
     "districtName": "Piła",
@@ -3354,7 +3354,7 @@
   {
     "id": 197,
     "fullName": "Krzysztof Kubów",
-    "birthYear": 1984,
+    "age": 42,
     "club": "PiS",
     "active": true,
     "districtName": "Legnica",
@@ -3365,7 +3365,7 @@
   {
     "id": 94,
     "fullName": "Elżbieta Gelert",
-    "birthYear": 1955,
+    "age": 71,
     "club": "KO",
     "active": true,
     "districtName": "Elbląg",
@@ -3376,7 +3376,7 @@
   {
     "id": 57,
     "fullName": "Arkadiusz Czartoryski",
-    "birthYear": 1966,
+    "age": 60,
     "club": "PiS",
     "active": true,
     "districtName": "Siedlce",
@@ -3387,7 +3387,7 @@
   {
     "id": 173,
     "fullName": "Zbigniew Konwiński",
-    "birthYear": 1974,
+    "age": 52,
     "club": "KO",
     "active": true,
     "districtName": "Słupsk",
@@ -3398,7 +3398,7 @@
   {
     "id": 265,
     "fullName": "Tomasz Nowak",
-    "birthYear": 1956,
+    "age": 70,
     "club": "KO",
     "active": true,
     "districtName": "Konin",
@@ -3409,7 +3409,7 @@
   {
     "id": 336,
     "fullName": "Rafał Siemaszko",
-    "birthYear": 1986,
+    "age": 40,
     "club": "KO",
     "active": true,
     "districtName": "Słupsk",
@@ -3419,7 +3419,7 @@
   {
     "id": 362,
     "fullName": "Artur Szałabawka",
-    "birthYear": 1967,
+    "age": 59,
     "club": "PiS",
     "active": true,
     "districtName": "Szczecin",
@@ -3430,7 +3430,7 @@
   {
     "id": 433,
     "fullName": "Agata Wojtyszek",
-    "birthYear": 1967,
+    "age": 59,
     "club": "PiS",
     "active": true,
     "districtName": "Kielce",
@@ -3441,7 +3441,7 @@
   {
     "id": 419,
     "fullName": "Dariusz Wieczorek",
-    "birthYear": 1965,
+    "age": 61,
     "club": "Lewica",
     "active": true,
     "districtName": "Szczecin",
@@ -3452,7 +3452,7 @@
   {
     "id": 417,
     "fullName": "Joanna Wicha",
-    "birthYear": 1966,
+    "age": 60,
     "club": "Lewica",
     "active": true,
     "districtName": "Warszawa",
@@ -3463,7 +3463,7 @@
   {
     "id": 280,
     "fullName": "Teresa Pamuła",
-    "birthYear": 1956,
+    "age": 70,
     "club": "PiS",
     "active": true,
     "districtName": "Krosno",
@@ -3474,7 +3474,7 @@
   {
     "id": 104,
     "fullName": "Małgorzata Golińska",
-    "birthYear": 1980,
+    "age": 46,
     "club": "PiS",
     "active": true,
     "districtName": "Koszalin",
@@ -3485,7 +3485,7 @@
   {
     "id": 322,
     "fullName": "Paweł Sałek",
-    "birthYear": 1975,
+    "age": 51,
     "club": "PiS",
     "active": true,
     "districtName": "Piotrków Trybunalski",
@@ -3496,7 +3496,7 @@
   {
     "id": 340,
     "fullName": "Włodzimierz Skalik",
-    "birthYear": 1959,
+    "age": 67,
     "club": "Konfederacja_KP",
     "active": true,
     "districtName": "Opole",
@@ -3506,7 +3506,7 @@
   {
     "id": 153,
     "fullName": "Piotr Kandyba",
-    "birthYear": 1969,
+    "age": 57,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -3517,7 +3517,7 @@
   {
     "id": 250,
     "fullName": "Aleksander Mrówczyński",
-    "birthYear": 1953,
+    "age": 73,
     "club": "PiS",
     "active": true,
     "districtName": "Słupsk",
@@ -3528,7 +3528,7 @@
   {
     "id": 21,
     "fullName": "Mateusz Bochenek",
-    "birthYear": 1993,
+    "age": 33,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -3539,7 +3539,7 @@
   {
     "id": 405,
     "fullName": "Piotr Uściński",
-    "birthYear": 1977,
+    "age": 49,
     "club": "PiS",
     "active": true,
     "districtName": "Warszawa",
@@ -3550,7 +3550,7 @@
   {
     "id": 234,
     "fullName": "Dariusz Matecki",
-    "birthYear": 1989,
+    "age": 37,
     "club": "PiS",
     "active": true,
     "districtName": "Szczecin",
@@ -3561,7 +3561,7 @@
   {
     "id": 214,
     "fullName": "Krzysztof Lipiec",
-    "birthYear": 1959,
+    "age": 67,
     "club": "PiS",
     "active": true,
     "districtName": "Kielce",
@@ -3572,7 +3572,7 @@
   {
     "id": 342,
     "fullName": "Krystyna Skowrońska",
-    "birthYear": 1954,
+    "age": 72,
     "club": "KO",
     "active": true,
     "districtName": "Rzeszów",
@@ -3583,7 +3583,7 @@
   {
     "id": 492,
     "fullName": "Rafał Romanowski",
-    "birthYear": 1978,
+    "age": 48,
     "club": "PiS",
     "active": true,
     "districtName": "Płock",
@@ -3594,7 +3594,7 @@
   {
     "id": 70,
     "fullName": "Robert Dowhan",
-    "birthYear": 1967,
+    "age": 59,
     "club": "KO",
     "active": true,
     "districtName": "Zielona Góra",
@@ -3604,7 +3604,7 @@
   {
     "id": 75,
     "fullName": "Jan Dziedziczak",
-    "birthYear": 1981,
+    "age": 45,
     "club": "PiS",
     "active": true,
     "districtName": "Kalisz",
@@ -3615,7 +3615,7 @@
   {
     "id": 480,
     "fullName": "Anna Paluch",
-    "birthYear": 1960,
+    "age": 66,
     "club": "PiS",
     "active": true,
     "districtName": "Nowy Sącz",
@@ -3626,7 +3626,7 @@
   {
     "id": 180,
     "fullName": "Janusz Kowalski",
-    "birthYear": 1978,
+    "age": 48,
     "club": "niez.",
     "active": true,
     "districtName": "Opole",
@@ -3637,7 +3637,7 @@
   {
     "id": 182,
     "fullName": "Iwona Kozłowska",
-    "birthYear": 1963,
+    "age": 63,
     "club": "KO",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -3648,7 +3648,7 @@
   {
     "id": 443,
     "fullName": "Andrzej Zapałowski",
-    "birthYear": 1966,
+    "age": 60,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Krosno",
@@ -3659,7 +3659,7 @@
   {
     "id": 251,
     "fullName": "Izabela Mrzygłocka",
-    "birthYear": 1959,
+    "age": 67,
     "club": "KO",
     "active": false,
     "districtName": "Wałbrzych",
@@ -3670,7 +3670,7 @@
   {
     "id": 399,
     "fullName": "Witold Tumanowicz",
-    "birthYear": 1986,
+    "age": 40,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Chełm",
@@ -3681,7 +3681,7 @@
   {
     "id": 217,
     "fullName": "Radosław Lubczyk",
-    "birthYear": 1978,
+    "age": 48,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Koszalin",
@@ -3692,7 +3692,7 @@
   {
     "id": 105,
     "fullName": "Kazimierz Gołojuch",
-    "birthYear": 1964,
+    "age": 62,
     "club": "PiS",
     "active": true,
     "districtName": "Rzeszów",
@@ -3703,7 +3703,7 @@
   {
     "id": 332,
     "fullName": "Olga Semeniuk-Patkowska",
-    "birthYear": 1988,
+    "age": 38,
     "club": "PiS",
     "active": true,
     "districtName": "Olsztyn",
@@ -3714,7 +3714,7 @@
   {
     "id": 99,
     "fullName": "Szymon Giżyński",
-    "birthYear": 1956,
+    "age": 70,
     "club": "PiS",
     "active": true,
     "districtName": "Częstochowa",
@@ -3725,7 +3725,7 @@
   {
     "id": 233,
     "fullName": "Dorota Marek",
-    "birthYear": 1973,
+    "age": 53,
     "club": "KO",
     "active": true,
     "districtName": "Kraków",
@@ -3736,7 +3736,7 @@
   {
     "id": 254,
     "fullName": "Krzysztof Mulawa",
-    "birthYear": 1985,
+    "age": 41,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Siedlce",
@@ -3747,7 +3747,7 @@
   {
     "id": 410,
     "fullName": "Jan Warzecha",
-    "birthYear": 1959,
+    "age": 67,
     "club": "PiS",
     "active": true,
     "districtName": "Rzeszów",
@@ -3758,7 +3758,7 @@
   {
     "id": 185,
     "fullName": "Leonard Krasulski",
-    "birthYear": 1950,
+    "age": 76,
     "club": "PiS",
     "active": true,
     "districtName": "Elbląg",
@@ -3769,7 +3769,7 @@
   {
     "id": 135,
     "fullName": "Łukasz Horbatowski",
-    "birthYear": 1980,
+    "age": 46,
     "club": "KO",
     "active": true,
     "districtName": "Legnica",
@@ -3780,7 +3780,7 @@
   {
     "id": 65,
     "fullName": "Anna Dąbrowska-Banaszek",
-    "birthYear": 1961,
+    "age": 65,
     "club": "PiS",
     "active": true,
     "districtName": "Chełm",
@@ -3791,7 +3791,7 @@
   {
     "id": 364,
     "fullName": "Wiesław Szczepański",
-    "birthYear": 1960,
+    "age": 66,
     "club": "Lewica",
     "active": true,
     "districtName": "Kalisz",
@@ -3802,7 +3802,7 @@
   {
     "id": 384,
     "fullName": "Jacek Świat",
-    "birthYear": 1955,
+    "age": 71,
     "club": "PiS",
     "active": true,
     "districtName": "Wrocław",
@@ -3813,7 +3813,7 @@
   {
     "id": 98,
     "fullName": "Włodzisław Giziński",
-    "birthYear": 1952,
+    "age": 74,
     "club": "KO",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -3823,7 +3823,7 @@
   {
     "id": 221,
     "fullName": "Alicja Łepkowska-Gołaś",
-    "birthYear": 1983,
+    "age": 43,
     "club": "KO",
     "active": true,
     "districtName": "Białystok",
@@ -3834,7 +3834,7 @@
   {
     "id": 319,
     "fullName": "Marek Rząsa",
-    "birthYear": 1957,
+    "age": 69,
     "club": "KO",
     "active": true,
     "districtName": "Krosno",
@@ -3845,7 +3845,7 @@
   {
     "id": 453,
     "fullName": "Tomasz Zieliński",
-    "birthYear": 1967,
+    "age": 59,
     "club": "PiS",
     "active": true,
     "districtName": "Chełm",
@@ -3856,7 +3856,7 @@
   {
     "id": 424,
     "fullName": "Przemysław Wipler",
-    "birthYear": 1978,
+    "age": 48,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Toruń",
@@ -3867,7 +3867,7 @@
   {
     "id": 92,
     "fullName": "Andrzej Gawron",
-    "birthYear": 1965,
+    "age": 61,
     "club": "PiS",
     "active": true,
     "districtName": "Częstochowa",
@@ -3878,7 +3878,7 @@
   {
     "id": 391,
     "fullName": "Wioleta Tomczak",
-    "birthYear": 1988,
+    "age": 38,
     "club": "Polska2050",
     "active": true,
     "districtName": "Słupsk",
@@ -3889,7 +3889,7 @@
   {
     "id": 88,
     "fullName": "Elżbieta Gapińska",
-    "birthYear": 1960,
+    "age": 66,
     "club": "KO",
     "active": true,
     "districtName": "Płock",
@@ -3900,7 +3900,7 @@
   {
     "id": 289,
     "fullName": "Grzegorz Piechowiak",
-    "birthYear": 1963,
+    "age": 63,
     "club": "PiS",
     "active": true,
     "districtName": "Piła",
@@ -3911,7 +3911,7 @@
   {
     "id": 206,
     "fullName": "Piotr Lachowicz",
-    "birthYear": 1967,
+    "age": 59,
     "club": "KO",
     "active": true,
     "districtName": "Nowy Sącz",
@@ -3922,7 +3922,7 @@
   {
     "id": 11,
     "fullName": "Piotr Babinetz",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PiS",
     "active": true,
     "districtName": "Krosno",
@@ -3933,7 +3933,7 @@
   {
     "id": 169,
     "fullName": "Magdalena Kołodziejczak",
-    "birthYear": 1958,
+    "age": 68,
     "club": "KO",
     "active": true,
     "districtName": "Gdańsk",
@@ -3944,7 +3944,7 @@
   {
     "id": 427,
     "fullName": "Mariusz Witczak",
-    "birthYear": 1971,
+    "age": 55,
     "club": "KO",
     "active": true,
     "districtName": "Kalisz",
@@ -3955,7 +3955,7 @@
   {
     "id": 450,
     "fullName": "Zbigniew Ziejewski",
-    "birthYear": 1958,
+    "age": 68,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Elbląg",
@@ -3966,7 +3966,7 @@
   {
     "id": 236,
     "fullName": "Grzegorz Matusiak",
-    "birthYear": 1961,
+    "age": 65,
     "club": "PiS",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -3977,7 +3977,7 @@
   {
     "id": 495,
     "fullName": "Michał Jach",
-    "birthYear": 1951,
+    "age": 75,
     "club": "PiS",
     "active": true,
     "districtName": "Szczecin",
@@ -3988,7 +3988,7 @@
   {
     "id": 343,
     "fullName": "Sławomir Skwarek",
-    "birthYear": 1963,
+    "age": 63,
     "club": "PiS",
     "active": true,
     "districtName": "Lublin",
@@ -3999,7 +3999,7 @@
   {
     "id": 203,
     "fullName": "Władysław Kurowski",
-    "birthYear": 1960,
+    "age": 66,
     "club": "PiS",
     "active": true,
     "districtName": "Kraków",
@@ -4010,7 +4010,7 @@
   {
     "id": 19,
     "fullName": "Paweł Bliźniuk",
-    "birthYear": 1986,
+    "age": 40,
     "club": "KO",
     "active": true,
     "districtName": "Łódź",
@@ -4021,7 +4021,7 @@
   {
     "id": 272,
     "fullName": "Barbara Oliwiecka",
-    "birthYear": 1977,
+    "age": 49,
     "club": "Centrum",
     "active": true,
     "districtName": "Kalisz",
@@ -4032,7 +4032,7 @@
   {
     "id": 363,
     "fullName": "Wojciech Szarama",
-    "birthYear": 1955,
+    "age": 71,
     "club": "PiS",
     "active": true,
     "districtName": "Katowice",
@@ -4043,7 +4043,7 @@
   {
     "id": 46,
     "fullName": "Tadeusz Chrzan",
-    "birthYear": 1963,
+    "age": 63,
     "club": "PiS",
     "active": true,
     "districtName": "Krosno",
@@ -4054,7 +4054,7 @@
   {
     "id": 487,
     "fullName": "Maciej Tomczykiewicz",
-    "birthYear": 1988,
+    "age": 38,
     "club": "KO",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -4065,7 +4065,7 @@
   {
     "id": 339,
     "fullName": "Arkadiusz Sikora",
-    "birthYear": 1973,
+    "age": 53,
     "club": "Lewica",
     "active": true,
     "districtName": "Legnica",
@@ -4076,7 +4076,7 @@
   {
     "id": 24,
     "fullName": "Jacek Bogucki",
-    "birthYear": 1959,
+    "age": 67,
     "club": "PiS",
     "active": true,
     "districtName": "Białystok",
@@ -4087,7 +4087,7 @@
   {
     "id": 187,
     "fullName": "Michał Krawczyk",
-    "birthYear": 1978,
+    "age": 48,
     "club": "KO",
     "active": true,
     "districtName": "Lublin",
@@ -4098,7 +4098,7 @@
   {
     "id": 93,
     "fullName": "Grzegorz Gaża",
-    "birthYear": 1972,
+    "age": 54,
     "club": "PiS",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -4109,7 +4109,7 @@
   {
     "id": 146,
     "fullName": "Norbert Kaczmarczyk",
-    "birthYear": 1989,
+    "age": 37,
     "club": "PiS",
     "active": true,
     "districtName": "Tarnów",
@@ -4120,7 +4120,7 @@
   {
     "id": 122,
     "fullName": "Kazimierz Gwiazdowski",
-    "birthYear": 1962,
+    "age": 64,
     "club": "PiS",
     "active": true,
     "districtName": "Białystok",
@@ -4131,7 +4131,7 @@
   {
     "id": 341,
     "fullName": "Marcin Skonieczka",
-    "birthYear": 1978,
+    "age": 48,
     "club": "Centrum",
     "active": true,
     "districtName": "Toruń",
@@ -4142,7 +4142,7 @@
   {
     "id": 175,
     "fullName": "Tomasz Kostuś",
-    "birthYear": 1974,
+    "age": 52,
     "club": "KO",
     "active": true,
     "districtName": "Opole",
@@ -4153,7 +4153,7 @@
   {
     "id": 244,
     "fullName": "Rajmund Miller",
-    "birthYear": 1954,
+    "age": 72,
     "club": "KO",
     "active": false,
     "districtName": "Opole",
@@ -4164,7 +4164,7 @@
   {
     "id": 277,
     "fullName": "Katarzyna Osos",
-    "birthYear": 1980,
+    "age": 46,
     "club": "KO",
     "active": true,
     "districtName": "Zielona Góra",
@@ -4175,7 +4175,7 @@
   {
     "id": 458,
     "fullName": "Ireneusz Zyska",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PiS",
     "active": true,
     "districtName": "Wałbrzych",
@@ -4186,7 +4186,7 @@
   {
     "id": 5,
     "fullName": "Dorota Arciszewska-Mielewczyk",
-    "birthYear": 1968,
+    "age": 58,
     "club": "PiS",
     "active": true,
     "districtName": "Słupsk",
@@ -4197,7 +4197,7 @@
   {
     "id": 249,
     "fullName": "Czesław Mroczek",
-    "birthYear": 1964,
+    "age": 62,
     "club": "KO",
     "active": true,
     "districtName": "Siedlce",
@@ -4208,7 +4208,7 @@
   {
     "id": 39,
     "fullName": "Elżbieta Burkiewicz",
-    "birthYear": 1964,
+    "age": 62,
     "club": "Centrum",
     "active": true,
     "districtName": "Rzeszów",
@@ -4219,7 +4219,7 @@
   {
     "id": 143,
     "fullName": "Danuta Jazłowiecka",
-    "birthYear": 1957,
+    "age": 69,
     "club": "KO",
     "active": true,
     "districtName": "Opole",
@@ -4230,7 +4230,7 @@
   {
     "id": 224,
     "fullName": "Sebastian Łukaszewicz",
-    "birthYear": 1991,
+    "age": 35,
     "club": "PiS",
     "active": true,
     "districtName": "Białystok",
@@ -4241,7 +4241,7 @@
   {
     "id": 201,
     "fullName": "Marcin Kulasek",
-    "birthYear": 1976,
+    "age": 50,
     "club": "Lewica",
     "active": true,
     "districtName": "Olsztyn",
@@ -4252,7 +4252,7 @@
   {
     "id": 113,
     "fullName": "Agnieszka Górska",
-    "birthYear": 1976,
+    "age": 50,
     "club": "PiS",
     "active": true,
     "districtName": "Radom",
@@ -4263,7 +4263,7 @@
   {
     "id": 101,
     "fullName": "Tomasz Głogowski",
-    "birthYear": 1974,
+    "age": 52,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -4274,7 +4274,7 @@
   {
     "id": 72,
     "fullName": "Elżbieta Duda",
-    "birthYear": 1962,
+    "age": 64,
     "club": "PiS",
     "active": true,
     "districtName": "Kraków",
@@ -4285,7 +4285,7 @@
   {
     "id": 193,
     "fullName": "Mariusz Krystian",
-    "birthYear": 1976,
+    "age": 50,
     "club": "PiS",
     "active": true,
     "districtName": "Kraków",
@@ -4296,7 +4296,7 @@
   {
     "id": 125,
     "fullName": "Krzysztof Habura",
-    "birthYear": 1956,
+    "age": 70,
     "club": "KO",
     "active": true,
     "districtName": "Sieradz",
@@ -4307,7 +4307,7 @@
   {
     "id": 84,
     "fullName": "Patryk Gabriel",
-    "birthYear": 1977,
+    "age": 49,
     "club": "KO",
     "active": true,
     "districtName": "Gdańsk",
@@ -4318,7 +4318,7 @@
   {
     "id": 81,
     "fullName": "Roman Fritz",
-    "birthYear": 1966,
+    "age": 60,
     "club": "Konfederacja_KP",
     "active": true,
     "districtName": "Bielsko-Biała",
@@ -4329,7 +4329,7 @@
   {
     "id": 164,
     "fullName": "Agnieszka Kłopotek",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -4340,7 +4340,7 @@
   {
     "id": 446,
     "fullName": "Sławomir Zawiślak",
-    "birthYear": 1963,
+    "age": 63,
     "club": "Konfederacja_KP",
     "active": true,
     "districtName": "Chełm",
@@ -4351,7 +4351,7 @@
   {
     "id": 59,
     "fullName": "Jacek Czerniak",
-    "birthYear": 1964,
+    "age": 62,
     "club": "Lewica",
     "active": true,
     "districtName": "Lublin",
@@ -4362,7 +4362,7 @@
   {
     "id": 158,
     "fullName": "Rafał Kasprzyk",
-    "birthYear": 1971,
+    "age": 55,
     "club": "Centrum",
     "active": true,
     "districtName": "Kielce",
@@ -4373,7 +4373,7 @@
   {
     "id": 463,
     "fullName": "Monika Pawłowska",
-    "birthYear": 1983,
+    "age": 43,
     "club": "PiS",
     "active": true,
     "districtName": "Chełm",
@@ -4384,7 +4384,7 @@
   {
     "id": 477,
     "fullName": "Grzegorz Macko",
-    "birthYear": 1992,
+    "age": 34,
     "club": "PiS",
     "active": true,
     "districtName": "Wałbrzych",
@@ -4395,7 +4395,7 @@
   {
     "id": 118,
     "fullName": "Małgorzata Gromadzka",
-    "birthYear": 1985,
+    "age": 41,
     "club": "KO",
     "active": true,
     "districtName": "Chełm",
@@ -4406,7 +4406,7 @@
   {
     "id": 26,
     "fullName": "Krzysztof Bojarski",
-    "birthYear": 1968,
+    "age": 58,
     "club": "KO",
     "active": true,
     "districtName": "Lublin",
@@ -4417,7 +4417,7 @@
   {
     "id": 496,
     "fullName": "Bogumiła Olbryś",
-    "birthYear": 1961,
+    "age": 65,
     "club": "PiS",
     "active": true,
     "districtName": "Białystok",
@@ -4428,7 +4428,7 @@
   {
     "id": 432,
     "fullName": "Agnieszka Wojciechowska van Heukelom",
-    "birthYear": 1964,
+    "age": 62,
     "club": "PiS",
     "active": true,
     "districtName": "Łódź",
@@ -4439,7 +4439,7 @@
   {
     "id": 222,
     "fullName": "Dorota Łoboda",
-    "birthYear": 1975,
+    "age": 51,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -4450,7 +4450,7 @@
   {
     "id": 78,
     "fullName": "Magdalena Filipek-Sobczak",
-    "birthYear": 1983,
+    "age": 43,
     "club": "PiS",
     "active": true,
     "districtName": "Lublin",
@@ -4461,7 +4461,7 @@
   {
     "id": 454,
     "fullName": "Jolanta Zięba-Gzik",
-    "birthYear": 1975,
+    "age": 51,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Sieradz",
@@ -4472,7 +4472,7 @@
   {
     "id": 50,
     "fullName": "Krzysztof Ciecióra",
-    "birthYear": 1989,
+    "age": 37,
     "club": "PiS",
     "active": true,
     "districtName": "Piotrków Trybunalski",
@@ -4482,7 +4482,7 @@
   {
     "id": 278,
     "fullName": "Jacek Osuch",
-    "birthYear": 1958,
+    "age": 68,
     "club": "PiS",
     "active": true,
     "districtName": "Kraków",
@@ -4493,7 +4493,7 @@
   {
     "id": 116,
     "fullName": "Marcin Grabowski",
-    "birthYear": 1981,
+    "age": 45,
     "club": "PiS",
     "active": true,
     "districtName": "Siedlce",
@@ -4504,7 +4504,7 @@
   {
     "id": 393,
     "fullName": "Stanisław Tomczyszyn",
-    "birthYear": 1959,
+    "age": 67,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Zielona Góra",
@@ -4515,7 +4515,7 @@
   {
     "id": 307,
     "fullName": "Michał Pyrzyk",
-    "birthYear": 1975,
+    "age": 51,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Konin",
@@ -4526,7 +4526,7 @@
   {
     "id": 398,
     "fullName": "Sylwester Tułajew",
-    "birthYear": 1981,
+    "age": 45,
     "club": "PiS",
     "active": true,
     "districtName": "Lublin",
@@ -4537,7 +4537,7 @@
   {
     "id": 370,
     "fullName": "Andrzej Szewiński",
-    "birthYear": 1970,
+    "age": 56,
     "club": "KO",
     "active": true,
     "districtName": "Częstochowa",
@@ -4548,7 +4548,7 @@
   {
     "id": 240,
     "fullName": "Łukasz Mejza",
-    "birthYear": 1991,
+    "age": 35,
     "club": "niez.",
     "active": true,
     "districtName": "Zielona Góra",
@@ -4559,7 +4559,7 @@
   {
     "id": 298,
     "fullName": "Szymon Pogoda",
-    "birthYear": 1985,
+    "age": 41,
     "club": "PiS",
     "active": true,
     "districtName": "Legnica",
@@ -4570,7 +4570,7 @@
   {
     "id": 357,
     "fullName": "Franciszek Sterczewski",
-    "birthYear": 1988,
+    "age": 38,
     "club": "KO",
     "active": true,
     "districtName": "Poznań",
@@ -4581,7 +4581,7 @@
   {
     "id": 467,
     "fullName": "Katarzyna Stachowicz",
-    "birthYear": 1977,
+    "age": 49,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -4592,7 +4592,7 @@
   {
     "id": 416,
     "fullName": "Marek Wesoły",
-    "birthYear": 1972,
+    "age": 54,
     "club": "PiS",
     "active": true,
     "districtName": "Katowice",
@@ -4603,7 +4603,7 @@
   {
     "id": 439,
     "fullName": "Maciej Wróbel",
-    "birthYear": 1983,
+    "age": 43,
     "club": "KO",
     "active": true,
     "districtName": "Olsztyn",
@@ -4614,7 +4614,7 @@
   {
     "id": 183,
     "fullName": "Stefan Krajewski",
-    "birthYear": 1981,
+    "age": 45,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Białystok",
@@ -4625,7 +4625,7 @@
   {
     "id": 176,
     "fullName": "Andrzej Kosztowniak",
-    "birthYear": 1976,
+    "age": 50,
     "club": "PiS",
     "active": true,
     "districtName": "Radom",
@@ -4636,7 +4636,7 @@
   {
     "id": 53,
     "fullName": "Żaneta Cwalina-Śliwowska",
-    "birthYear": 1978,
+    "age": 48,
     "club": "Centrum",
     "active": true,
     "districtName": "Siedlce",
@@ -4647,7 +4647,7 @@
   {
     "id": 69,
     "fullName": "Bartłomiej Dorywalski",
-    "birthYear": 1979,
+    "age": 47,
     "club": "PiS",
     "active": true,
     "districtName": "Kielce",
@@ -4658,7 +4658,7 @@
   {
     "id": 45,
     "fullName": "Dominika Chorosińska",
-    "birthYear": 1978,
+    "age": 48,
     "club": "PiS",
     "active": true,
     "districtName": "Warszawa",
@@ -4669,7 +4669,7 @@
   {
     "id": 423,
     "fullName": "Teresa Wilk",
-    "birthYear": 1952,
+    "age": 74,
     "club": "PiS",
     "active": true,
     "districtName": "Elbląg",
@@ -4680,7 +4680,7 @@
   {
     "id": 408,
     "fullName": "Robert Wardzała",
-    "birthYear": 1975,
+    "age": 51,
     "club": "KO",
     "active": true,
     "districtName": "Tarnów",
@@ -4691,7 +4691,7 @@
   {
     "id": 237,
     "fullName": "Katarzyna Matusik-Lipiec",
-    "birthYear": 1975,
+    "age": 51,
     "club": "KO",
     "active": true,
     "districtName": "Kraków",
@@ -4702,7 +4702,7 @@
   {
     "id": 486,
     "fullName": "Włodzimierz Tomaszewski",
-    "birthYear": 1956,
+    "age": 70,
     "club": "PiS",
     "active": true,
     "districtName": "Łódź",
@@ -4713,7 +4713,7 @@
   {
     "id": 138,
     "fullName": "Klaudia Jachira",
-    "birthYear": 1988,
+    "age": 38,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -4724,7 +4724,7 @@
   {
     "id": 308,
     "fullName": "Renata Rak",
-    "birthYear": 1973,
+    "age": 53,
     "club": "KO",
     "active": true,
     "districtName": "Koszalin",
@@ -4735,7 +4735,7 @@
   {
     "id": 41,
     "fullName": "Marek Chmielewski",
-    "birthYear": 1962,
+    "age": 64,
     "club": "KO",
     "active": true,
     "districtName": "Wałbrzych",
@@ -4746,7 +4746,7 @@
   {
     "id": 444,
     "fullName": "Bartosz Zawieja",
-    "birthYear": 1978,
+    "age": 48,
     "club": "KO",
     "active": true,
     "districtName": "Poznań",
@@ -4757,7 +4757,7 @@
   {
     "id": 436,
     "fullName": "Grzegorz Woźniak",
-    "birthYear": 1968,
+    "age": 58,
     "club": "PiS",
     "active": true,
     "districtName": "Siedlce",
@@ -4768,7 +4768,7 @@
   {
     "id": 275,
     "fullName": "Mirosław Orliński",
-    "birthYear": 1986,
+    "age": 40,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Płock",
@@ -4779,7 +4779,7 @@
   {
     "id": 259,
     "fullName": "Jacek Niedźwiedzki",
-    "birthYear": 1975,
+    "age": 51,
     "club": "KO",
     "active": true,
     "districtName": "Białystok",
@@ -4790,7 +4790,7 @@
   {
     "id": 145,
     "fullName": "Marcin Józefaciuk",
-    "birthYear": 1982,
+    "age": 44,
     "club": "niez.",
     "active": true,
     "districtName": "Łódź",
@@ -4801,7 +4801,7 @@
   {
     "id": 186,
     "fullName": "Iwona Krawczyk",
-    "birthYear": 1965,
+    "age": 61,
     "club": "KO",
     "active": true,
     "districtName": "Legnica",
@@ -4812,7 +4812,7 @@
   {
     "id": 291,
     "fullName": "Katarzyna Piekarska",
-    "birthYear": 1967,
+    "age": 59,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -4823,7 +4823,7 @@
   {
     "id": 219,
     "fullName": "Adam Luboński",
-    "birthYear": 1969,
+    "age": 57,
     "club": "Polska2050",
     "active": true,
     "districtName": "Piła",
@@ -4834,7 +4834,7 @@
   {
     "id": 207,
     "fullName": "Stanisław Lamczyk",
-    "birthYear": 1957,
+    "age": 69,
     "club": "KO",
     "active": true,
     "districtName": "Słupsk",
@@ -4845,7 +4845,7 @@
   {
     "id": 157,
     "fullName": "Iwona Karolewska",
-    "birthYear": 1974,
+    "age": 52,
     "club": "KO",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -4856,7 +4856,7 @@
   {
     "id": 457,
     "fullName": "Wojciech Zubowski",
-    "birthYear": 1979,
+    "age": 47,
     "club": "PiS",
     "active": true,
     "districtName": "Legnica",
@@ -4867,7 +4867,7 @@
   {
     "id": 196,
     "fullName": "Henryka Krzywonos-Strycharska",
-    "birthYear": 1953,
+    "age": 73,
     "club": "KO",
     "active": true,
     "districtName": "Słupsk",
@@ -4878,7 +4878,7 @@
   {
     "id": 44,
     "fullName": "Kazimierz Choma",
-    "birthYear": 1957,
+    "age": 69,
     "club": "PiS",
     "active": true,
     "districtName": "Lublin",
@@ -4889,7 +4889,7 @@
   {
     "id": 466,
     "fullName": "Paweł Masełko",
-    "birthYear": 1980,
+    "age": 46,
     "club": "KO",
     "active": true,
     "districtName": "Opole",
@@ -4900,7 +4900,7 @@
   {
     "id": 438,
     "fullName": "Michał Wójcik",
-    "birthYear": 1971,
+    "age": 55,
     "club": "PiS",
     "active": true,
     "districtName": "Katowice",
@@ -4911,7 +4911,7 @@
   {
     "id": 372,
     "fullName": "Henryk Szopiński",
-    "birthYear": 1962,
+    "age": 64,
     "club": "KO",
     "active": true,
     "districtName": "Piła",
@@ -4922,7 +4922,7 @@
   {
     "id": 132,
     "fullName": "Marek Hok",
-    "birthYear": 1953,
+    "age": 73,
     "club": "KO",
     "active": true,
     "districtName": "Koszalin",
@@ -4933,7 +4933,7 @@
   {
     "id": 295,
     "fullName": "Kazimierz Plocke",
-    "birthYear": 1958,
+    "age": 68,
     "club": "KO",
     "active": true,
     "districtName": "Słupsk",
@@ -4944,7 +4944,7 @@
   {
     "id": 63,
     "fullName": "Sławomir Ćwik",
-    "birthYear": 1972,
+    "age": 54,
     "club": "Centrum",
     "active": true,
     "districtName": "Chełm",
@@ -4955,7 +4955,7 @@
   {
     "id": 108,
     "fullName": "Stanisław Gorczyca",
-    "birthYear": 1958,
+    "age": 68,
     "club": "KO",
     "active": true,
     "districtName": "Elbląg",
@@ -4966,7 +4966,7 @@
   {
     "id": 472,
     "fullName": "Piotr Kowal",
-    "birthYear": 1992,
+    "age": 34,
     "club": "Lewica",
     "active": true,
     "districtName": "Toruń",
@@ -4977,7 +4977,7 @@
   {
     "id": 461,
     "fullName": "Anna Baluch",
-    "birthYear": 1973,
+    "age": 53,
     "club": "PiS",
     "active": true,
     "districtName": "Lublin",
@@ -4988,7 +4988,7 @@
   {
     "id": 347,
     "fullName": "Anna Sobolak",
-    "birthYear": 1979,
+    "age": 47,
     "club": "KO",
     "active": true,
     "districtName": "Wrocław",
@@ -4998,7 +4998,7 @@
   {
     "id": 498,
     "fullName": "Marek Subocz",
-    "birthYear": 1984,
+    "age": 42,
     "club": "PiS",
     "active": true,
     "districtName": "Koszalin",
@@ -5009,7 +5009,7 @@
   {
     "id": 142,
     "fullName": "Patryk Jaskulski",
-    "birthYear": 1990,
+    "age": 36,
     "club": "KO",
     "active": true,
     "districtName": "Szczecin",
@@ -5020,7 +5020,7 @@
   {
     "id": 247,
     "fullName": "Jan Mosiński",
-    "birthYear": 1956,
+    "age": 70,
     "club": "PiS",
     "active": true,
     "districtName": "Kalisz",
@@ -5031,7 +5031,7 @@
   {
     "id": 331,
     "fullName": "Jarosław Sellin",
-    "birthYear": 1963,
+    "age": 63,
     "club": "PiS",
     "active": true,
     "districtName": "Gdańsk",
@@ -5042,7 +5042,7 @@
   {
     "id": 168,
     "fullName": "Ewa Kołodziej",
-    "birthYear": 1978,
+    "age": 48,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -5053,7 +5053,7 @@
   {
     "id": 261,
     "fullName": "Jolanta Niezgodzka",
-    "birthYear": 1991,
+    "age": 35,
     "club": "KO",
     "active": true,
     "districtName": "Wrocław",
@@ -5063,7 +5063,7 @@
   {
     "id": 257,
     "fullName": "Grzegorz Napieralski",
-    "birthYear": 1974,
+    "age": 52,
     "club": "KO",
     "active": true,
     "districtName": "Szczecin",
@@ -5074,7 +5074,7 @@
   {
     "id": 190,
     "fullName": "Wojciech Król",
-    "birthYear": 1985,
+    "age": 41,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -5085,7 +5085,7 @@
   {
     "id": 379,
     "fullName": "Łukasz Ściebiorowski",
-    "birthYear": 1980,
+    "age": 46,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -5096,7 +5096,7 @@
   {
     "id": 91,
     "fullName": "Zdzisław Gawlik",
-    "birthYear": 1960,
+    "age": 66,
     "club": "KO",
     "active": true,
     "districtName": "Rzeszów",
@@ -5107,7 +5107,7 @@
   {
     "id": 468,
     "fullName": "Lidia Czechak",
-    "birthYear": 1976,
+    "age": 50,
     "club": "PiS",
     "active": true,
     "districtName": "Kalisz",
@@ -5118,7 +5118,7 @@
   {
     "id": 479,
     "fullName": "Krzysztof Mieszkowski",
-    "birthYear": 1956,
+    "age": 70,
     "club": "KO",
     "active": true,
     "districtName": "Wrocław",
@@ -5129,7 +5129,7 @@
   {
     "id": 481,
     "fullName": "Krzysztof Piątkowski",
-    "birthYear": 1969,
+    "age": 57,
     "club": "KO",
     "active": true,
     "districtName": "Łódź",
@@ -5140,7 +5140,7 @@
   {
     "id": 192,
     "fullName": "Andrzej Kryj",
-    "birthYear": 1960,
+    "age": 66,
     "club": "PiS",
     "active": true,
     "districtName": "Kielce",
@@ -5151,7 +5151,7 @@
   {
     "id": 489,
     "fullName": "Bożena Lisowska",
-    "birthYear": 1963,
+    "age": 63,
     "club": "KO",
     "active": true,
     "districtName": "Lublin",
@@ -5162,7 +5162,7 @@
   {
     "id": 68,
     "fullName": "Andrzej Domański",
-    "birthYear": 1981,
+    "age": 45,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -5173,7 +5173,7 @@
   {
     "id": 471,
     "fullName": "Urszula Koszutska",
-    "birthYear": 1959,
+    "age": 67,
     "club": "KO",
     "active": true,
     "districtName": "Katowice",
@@ -5184,7 +5184,7 @@
   {
     "id": 473,
     "fullName": "Michał Kowalski",
-    "birthYear": 1976,
+    "age": 50,
     "club": "PiS",
     "active": true,
     "districtName": "Słupsk",
@@ -5195,7 +5195,7 @@
   {
     "id": 485,
     "fullName": "Krzysztof Szymański",
-    "birthYear": 1990,
+    "age": 36,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Słupsk",
@@ -5206,7 +5206,7 @@
   {
     "id": 490,
     "fullName": "Michał Połuboczek",
-    "birthYear": 1982,
+    "age": 44,
     "club": "Konfederacja",
     "active": true,
     "districtName": "Rzeszów",
@@ -5217,7 +5217,7 @@
   {
     "id": 380,
     "fullName": "Agnieszka Ścigaj",
-    "birthYear": 1975,
+    "age": 51,
     "club": "PiS",
     "active": true,
     "districtName": "Kraków",
@@ -5228,7 +5228,7 @@
   {
     "id": 483,
     "fullName": "Magdalena Roguska",
-    "birthYear": 1980,
+    "age": 46,
     "club": "KO",
     "active": true,
     "districtName": "Warszawa",
@@ -5239,7 +5239,7 @@
   {
     "id": 220,
     "fullName": "Artur Łącki",
-    "birthYear": 1961,
+    "age": 65,
     "club": "KO",
     "active": true,
     "districtName": "Szczecin",
@@ -5250,7 +5250,7 @@
   {
     "id": 465,
     "fullName": "Dominik Jaśkowiec",
-    "birthYear": 1977,
+    "age": 49,
     "club": "KO",
     "active": true,
     "districtName": "Kraków",
@@ -5261,7 +5261,7 @@
   {
     "id": 195,
     "fullName": "Adam Krzemiński",
-    "birthYear": 1975,
+    "age": 51,
     "club": "KO",
     "active": true,
     "districtName": "Płock",
@@ -5272,7 +5272,7 @@
   {
     "id": 299,
     "fullName": "Jerzy Polaczek",
-    "birthYear": 1961,
+    "age": 65,
     "club": "PiS",
     "active": true,
     "districtName": "Katowice",
@@ -5283,7 +5283,7 @@
   {
     "id": 475,
     "fullName": "Katarzyna Królak",
-    "birthYear": 1971,
+    "age": 55,
     "club": "KO",
     "active": true,
     "districtName": "Elbląg",
@@ -5294,7 +5294,7 @@
   {
     "id": 361,
     "fullName": "Paweł Suski",
-    "birthYear": 1964,
+    "age": 62,
     "club": "KO",
     "active": true,
     "districtName": "Koszalin",
@@ -5305,7 +5305,7 @@
   {
     "id": 293,
     "fullName": "Lucjan Pietrzczyk",
-    "birthYear": 1960,
+    "age": 66,
     "club": "KO",
     "active": true,
     "districtName": "Kielce",
@@ -5316,7 +5316,7 @@
   {
     "id": 469,
     "fullName": "Barbara Grygorcewicz",
-    "birthYear": 1963,
+    "age": 63,
     "club": "KO",
     "active": true,
     "districtName": "Koszalin",
@@ -5327,7 +5327,7 @@
   {
     "id": 494,
     "fullName": "Robert Jagła",
-    "birthYear": 1968,
+    "age": 58,
     "club": "KO",
     "active": true,
     "districtName": "Wałbrzych",
@@ -5338,7 +5338,7 @@
   {
     "id": 52,
     "fullName": "Michał Cieślak",
-    "birthYear": 1974,
+    "age": 52,
     "club": "PiS",
     "active": true,
     "districtName": "Kielce",
@@ -5349,7 +5349,7 @@
   {
     "id": 493,
     "fullName": "Henryk Smolarz",
-    "birthYear": 1969,
+    "age": 57,
     "club": "PSL-TD",
     "active": true,
     "districtName": "Lublin",
@@ -5360,7 +5360,7 @@
   {
     "id": 478,
     "fullName": "Jerzy Meysztowicz",
-    "birthYear": 1958,
+    "age": 68,
     "club": "KO",
     "active": true,
     "districtName": "Kraków",
@@ -5371,7 +5371,7 @@
   {
     "id": 109,
     "fullName": "Mariusz Gosek",
-    "birthYear": 1982,
+    "age": 44,
     "club": "PiS",
     "active": true,
     "districtName": "Kielce",
@@ -5382,7 +5382,7 @@
   {
     "id": 464,
     "fullName": "Alicja Łuczak",
-    "birthYear": 1961,
+    "age": 65,
     "club": "KO",
     "active": true,
     "districtName": "Kalisz",
@@ -5393,7 +5393,7 @@
   {
     "id": 112,
     "fullName": "Piotr Górnikiewicz",
-    "birthYear": 1972,
+    "age": 54,
     "club": "Polska2050",
     "active": true,
     "districtName": "Tarnów",
@@ -5404,7 +5404,7 @@
   {
     "id": 429,
     "fullName": "Przemysław Witek",
-    "birthYear": 1978,
+    "age": 48,
     "club": "KO",
     "active": true,
     "districtName": "Częstochowa",
@@ -5415,7 +5415,7 @@
   {
     "id": 482,
     "fullName": "Mariusz Popielarz",
-    "birthYear": 1975,
+    "age": 51,
     "club": "KO",
     "active": true,
     "districtName": "Siedlce",
@@ -5426,7 +5426,7 @@
   {
     "id": 491,
     "fullName": "Aleksandra Kot",
-    "birthYear": 2000,
+    "age": 26,
     "club": "KO",
     "active": true,
     "districtName": "Kraków",
@@ -5437,7 +5437,7 @@
   {
     "id": 499,
     "fullName": "Bożena Borowiec",
-    "birthYear": 1968,
+    "age": 58,
     "club": "Lewica",
     "active": true,
     "districtName": "Katowice",
@@ -5447,7 +5447,7 @@
   {
     "id": 462,
     "fullName": "Magdalena Łośko",
-    "birthYear": 1984,
+    "age": 42,
     "club": "KO",
     "active": true,
     "districtName": "Bydgoszcz",
@@ -5458,7 +5458,7 @@
   {
     "id": 474,
     "fullName": "Maria Koźlakiewicz",
-    "birthYear": 1985,
+    "age": 41,
     "club": "KO",
     "active": true,
     "districtName": "Płock",
@@ -5469,7 +5469,7 @@
   {
     "id": 271,
     "fullName": "Barbara Okuła",
-    "birthYear": 1973,
+    "age": 53,
     "club": "Centrum",
     "active": true,
     "districtName": "Białystok",

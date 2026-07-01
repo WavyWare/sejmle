@@ -15,7 +15,7 @@ export default async function Home() {
         <h1 className={"text-8xl font-bold my-3 border-b-10 border-green-500"}>Sejmle</h1>
         <p className={"text-2xl"}>Wordle, ale z polskimi posłami</p>
         <div className={"my-10 flex gap-3 justify-center text-2xl"}>
-        <Game mpsAll={mpsAll} dailyID={getDailyMP(mpsRecognizable)}/>
+        <Game mpsAll={mpsAll} dailyMP={getDailyMP(mpsRecognizable)}/>
         </div>
     </div>
   );

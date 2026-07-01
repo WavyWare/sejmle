@@ -15,7 +15,7 @@ async function run() {
         return {
             id: item.id,
             fullName: item.firstName + " " + item.lastName,
-            birthYear: parseInt(item.birthDate.split("-")[0]),
+            age: new Date().getFullYear() - parseInt(item.birthDate.split("-")[0]),
             club: item.club,
             active: item.active,
             districtName: item.districtName,

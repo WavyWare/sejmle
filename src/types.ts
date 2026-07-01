@@ -22,7 +22,7 @@ export type MPEntry = {
 export type MP = {
     id: number;
     fullName: string;
-    birthYear: number;
+    age: number;
     club: string;
     active: boolean;
     districtName: string;
