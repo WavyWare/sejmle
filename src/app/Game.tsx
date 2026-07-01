@@ -1,9 +1,10 @@
 "use client"
 import React, {useState} from 'react';
-import {MP} from "@/scripts/MP";
+import {MP} from "@/types";
 import Image from "next/image"
 
 import {FaLongArrowAltRight} from "react-icons/fa";
+import {normalizeString} from "@/lib/normalize";
 
 function Game(props: { mpsAll: MP[], dailyID: number}) {
     const [visible, setVisible] = useState(false);
@@ -95,13 +96,6 @@ function Game(props: { mpsAll: MP[], dailyID: number}) {
     );
 }
 
-const normalizeString = (str: string) => {
-    return str
-        .toLowerCase()
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "")
-        .replace(/ł/g, "l")
-}
 
 
 

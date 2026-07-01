@@ -1,6 +1,6 @@
 import { writeFileSync } from 'fs';
 import path from 'path';
-import {MP, MPEntry} from "@/scripts/MP";
+import {MP, MPEntry} from "@/types";
 
 
 
