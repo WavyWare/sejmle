@@ -1,78 +1,64 @@
 type mpField = string | number | boolean;
 
+interface comparisonResult {
+    status: string,
+    value: mpField,
+    indicator?: string,
+}
+
 interface columnType {
     label: string;
-    compare: (guess: mpField, target: mpField) => {
-        status: string,
-        value: mpField,
-        indicator?: string,
-    }
+    compare: (guess: mpField, target: mpField) => comparisonResult
 }
 
 
 export const SEJMLE_COLUMNS: columnType[] = [
     {
         label: "Imie i nazwisko",
-        compare: (guess, target) => ({
-                status: guess === target ? "correct" : "wrong",
-                value: guess,
-        })
+        compare: compareExact
     },
     {
         label: "Wiek",
-        compare: (guess, target) => {
-            if (guess === target) return {status: "correct", value: guess};
-            return {
-                status: "wrong",
-                value: guess,
-                indicator: guess > target ? "⬇️" : "⬆️"
-            }
-        }
+        compare: compareRange
     },
     {
         label: "Partia",
-        compare: (guess, target) => ({
-            status: guess === target ? "correct" : "wrong",
-            value: guess,
-        })
+        compare: compareExact
     },
     {
         label: "Aktywność",
-        compare: (guess, target) => ({
-            status: guess === target ? "correct" : "wrong",
-            value: guess,
-        })
+        compare: compareExact
     },
     {
         label: "Miejscowość",
-        compare: (guess, target) => ({
-            status: guess === target ? "correct" : "wrong",
-            value: guess,
-        })
+        compare: compareExact
     },
     {
         label: "Województwo",
-        compare: (guess, target) => ({
-            status: guess === target ? "correct" : "wrong",
-            value: guess,
-        })
+        compare: compareExact
     },
     {
         label: "Liczba głosów",
-        compare: (guess, target) => {
-            if (guess === target) return {status: "correct", value: guess};
-            return {
-                status: "wrong",
-                value: guess,
-                indicator: guess > target ? "⬇️" : "⬆️"
-            }
-        }
+        compare: compareRange
     },
     {
         label: "Zawód",
-        compare: (guess, target) => ({
-            status: guess === target ? "correct" : "wrong",
-            value: guess,
-        })
+        compare: compareExact
     },
 ]
+
+function compareRange(guess: mpField, target: mpField): comparisonResult {
+    if (guess === target) return {status: "correct", value: guess};
+    return {
+        status: "wrong",
+        value: guess,
+        indicator: guess > target ? "⬇️" : "⬆️"
+    }
+}
+
+function compareExact(guess: mpField, target: mpField): comparisonResult {
+    return {
+        status: guess === target ? "correct" : "wrong",
+        value: guess,
+    }
+}
